@@ -1,5 +1,5 @@
 # [TradingView](https://www.tradingview.com/) Documentation Guidelines
 
-This repo holds the documentation guidelines for:
-- The [Pine User Manual]() (the published version is [here](https://www.tradingview.com/pine-script-docs/en/v4/index.html))
-- The [Pine Reference Manual]() (the published version is [here](https://www.tradingview.com/pine-script-reference/v4/))
+This repo holds the following guidelines:
+- [Pine User Manual Guidelines]() ([published version](https://www.tradingview.com/pine-script-docs/en/v4/index.html))
+- [Pine Reference Manual Guidelines]() ([published version](https://www.tradingview.com/pine-script-reference/v4/))
