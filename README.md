@@ -2,4 +2,4 @@
 
 This repo holds the following guidelines:
 - [Pine User Manual Guidelines](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual) ([published version](https://www.tradingview.com/pine-script-docs/en/v4/index.html))
-- [Pine Reference Manual Guidelines]() ([published version](https://www.tradingview.com/pine-script-reference/v4/))
+- [Pine Reference Manual Guidelines](https://github.com/tradingview/documentation-guidelines/tree/main/PineReferenceManual) ([published version](https://www.tradingview.com/pine-script-reference/v4/))
