@@ -30,7 +30,7 @@ We use `` `na <https://www.tradingview.com/pine-script-reference/v5/#var_na>`__ 
 
 ### References
 
-The easiest way to place images is by using: ``.. image:: images/Colors-UsingColors-1.png``, which requires only one line and no references at the end of the file, as the ``|Colors-UsingColors-1|`` syntax is used.
+The easiest way to place images is by using: ``.. image:: images/Colors-UsingColors-1.png``, which requires only one line and no references at the end of the file, as is the cas when the ``|Colors-UsingColors-1|`` syntax is used.
 
 ### Location
 
@@ -45,4 +45,21 @@ Image names should use the following nomenclature: ``PageName-SectionName-[x/tex
 Images should ideally have an even number of pixels in height and width.
 
 Screenshots should be taken using the English version of the platform and the ShareX macro that Tim has created to add a thin blue border with rounded corners.
+
+
+### Code examples
+
+Code snippets should conform to our [Style guide](https://www.tradingview.com/pine-script-docs/en/v4/Style_guide.html).
+
+We use the following syntax to format code:
+
+```
+[text]::
+
+    //@version=5
+    indicator("")
+    plot(na)
+```
+
+where ``[text]`` is optional text.
 
