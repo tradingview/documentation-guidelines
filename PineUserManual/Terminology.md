@@ -1,6 +1,5 @@
 # Terminology
 
-## Introduction
 We use U.S. English standards.
 
 ### argument & parameter
