@@ -1,7 +1,7 @@
 # Terminology
 
 ### argument & parameter
-We use "parameter" to designate the function's parameters when referring to the function's signature. 
+We use "parameter" to designate the name of the values a function accepts, as defined in the function's signature. 
 When referring to values passed to a function when calling it, we use "argument":
 - *Defining the type of function parameters in library function declarations is mandatory."
 - *A "simple int" argument is required for the length parameter in ``sma()``.*
