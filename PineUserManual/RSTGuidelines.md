@@ -24,3 +24,24 @@ We use "PagePagename_SectionName" for section anchors, where "PagePagename" is t
 ### To Reference manual entries
 
 We use `` `na <https://www.tradingview.com/pine-script-reference/v5/#var_na>`__ `` for the ``na`` value, and `` `na() <https://www.tradingview.com/pine-script-reference/v5/#fun_na>`__ `` for the ``na()`` function.
+
+
+## Images
+
+### References
+
+The easiest way to place images is by using: ``.. image:: images/Colors-UsingColors-1.png``, which requires only one line and no references at the end of the file, as the ``|Colors-UsingColors-1|`` syntax is used.
+
+### Location
+
+Images should always be placed in the ``images`` directory in the same directory as the RST file.
+
+### Naming
+
+Image names should use the following nomenclature: ``PageName-SectionName-[x/text].ext`` where ``x`` can be a sequential digit, or ``text`` can be used to further qualify the image. Examples: ``Arrays-HistoryReferencing.png``, ``Arrays-ManipulatingArrays-Concat.png``, ``Colors-CalculatingColors-1.png``.
+
+### Scrennshots
+
+Images should ideally have an even number of pixels in height and width.
+
+Screenshots should be taken using the English version of the platform.
