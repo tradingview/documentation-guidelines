@@ -9,7 +9,9 @@ When referring to values passed to a function when calling it, we use "argument"
 - *A "simple int" argument is required for the length parameter in ``sma()``.*
 
 ### ID
-When referring to pointers to drawings or arrays, we use "ID" for singular and "IDs" for plural.
+When referring to pointers to plots, hlines, drawings or arrays, we use "ID" for singular and "IDs" for plural:
+- *Both IDs used to identify the lines to be filled in ``fill()`` must be either plot IDs or hline IDs.*
+- *Drawing IDs are time series; array IDs are not.*
 
 ### realtime & real time
 We use "realtime" when it is an adjective and "real time" when "time" is used as a noun:
