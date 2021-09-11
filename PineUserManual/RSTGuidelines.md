@@ -40,8 +40,9 @@ Images should always be placed in the ``images`` directory in the same directory
 
 Image names should use the following nomenclature: ``PageName-SectionName-[x/text].ext`` where ``x`` can be a sequential digit, or ``text`` can be used to further qualify the image. Examples: ``Arrays-HistoryReferencing.png``, ``Arrays-ManipulatingArrays-Concat.png``, ``Colors-CalculatingColors-1.png``.
 
-### Scrennshots
+### Screenshots
 
 Images should ideally have an even number of pixels in height and width.
 
-Screenshots should be taken using the English version of the platform.
+Screenshots should be taken using the English version of the platform and the ShareX macro that Tim has created to add a thin blue border with rounded corners.
+
