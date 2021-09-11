@@ -2,4 +2,4 @@
 
 [Terminology guidelines](Terminology.md)
 
-RST guidelines
+[RST guidelines](RSTGuidelines.md)
