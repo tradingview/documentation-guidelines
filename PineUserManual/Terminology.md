@@ -15,7 +15,8 @@ When referring to pointers to plots, hlines, drawings or arrays, we use "ID" for
 
 ### realtime & real time
 We use "realtime" when it is an adjective and "real time" when "time" is used as a noun:
-- *A realtime bar*, *realtime calculations*
+- *A realtime bar*
+- *Realtime calculations*
 - *A script running in real time*
 
 ### timeframe
