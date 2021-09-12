@@ -44,9 +44,9 @@ where ``[text]`` is optional text.
 
 ## Pine keywords
 
-- If we are referring to a function, variable or operator for which a Reference Manual entry exists, we create a link for it using::
+- If we are referring to a function, variable or operator for which a Reference Manual entry exists, we create a link for it using:
 
-    `xxx <https://www.tradingview.com/pine-script-reference/v5/#>`__
+    `` `atr() <https://www.tradingview.com/pine-script-reference/v5/#fun_atr>`__ ``
 
 - When Pine keywords
 
