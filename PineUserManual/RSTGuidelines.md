@@ -80,7 +80,8 @@ This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` 
 
 ##### For page sections
 
-We use "PagePagename_SectionName" for section anchors, where "PagePagename" is the page the section belongs to, e.g., `.. _PageColors_ZIndex:` for the "Z-Index" section of the page on Colors.
+We use "PagePagename_SectionName" for section anchors, where "PagePagename" is the page the section belongs to,  
+e.g., `.. _PageColors_ZIndex:` for the "Z-Index" section of the page on Colors.
 
 #### Reference Manual entries
 
