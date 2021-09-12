@@ -48,10 +48,13 @@ When referring to a function, always include "()" after its name. This helps dis
 
 If we are referring to a function, variable or operator for which a Reference Manual entry exists, we create a link for it using:
 
-    `` `ta.tr <https://www.tradingview.com/pine-script-reference/v5/#var_ta{dot}tr>`__ ``  
-    `` `ta.tr() <https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}tr>`__ ``
+```
+    `ta.tr <https://www.tradingview.com/pine-script-reference/v5/#var_ta{dot}tr>`__
+    `ta.tr() <https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}tr>`__
+```
 
 When Pine keywords must be included in headings, we use visible backticks to wrap the keywords because monospace doesn't apparently work well in headings:
+
 
     `` Using \`bgcolor()\` ``  
     `` ------------------- ``
