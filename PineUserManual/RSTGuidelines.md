@@ -52,10 +52,10 @@ where ``[text]`` is optional text.
 
 - When Pine keywords must be included in headings, we use visible backticks to wrap the keywords because monospace doesn't apparently work well in headings:
 
-```
-    Using \`bgcolor()\`
-    -------------------
-```
+
+    `` Using \`bgcolor()\` ``
+    ``-------------------``
+
 
 
 
