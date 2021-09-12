@@ -62,7 +62,7 @@ Using \`bgcolor()\`
 
 
 
-## References
+## References to other pages or sections
 
 ### Within the User Manual
 
@@ -82,9 +82,4 @@ This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` 
 
 We use "PagePagename_SectionName" for section anchors, where "PagePagename" is the page the section belongs to,  
 e.g., `.. _PageColors_ZIndex:` for the "Z-Index" section of the page on Colors.
-
-#### Reference Manual entries
-
-We use `` `na <https://www.tradingview.com/pine-script-reference/v5/#var_na>`__ `` for the ``na`` value, and `` `na() <https://www.tradingview.com/pine-script-reference/v5/#fun_na>`__ `` for the ``na()`` function.
-
 
