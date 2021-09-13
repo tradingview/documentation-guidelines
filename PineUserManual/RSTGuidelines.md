@@ -6,11 +6,13 @@
 ## Images
 
 ### References
-
-The easiest way to place images is by using: ``.. image:: images/Colors-UsingColors-1.png``, which requires only one line and no references at the end of the file, as is the cas when the ``|Colors-UsingColors-1|`` syntax is used.
+The easiest way to place images is by using: 
+```
+.. image:: images/Colors-UsingColors-1.png
+```
+, which requires only one line and no references at the end of the file, as is the cas when the ``|Colors-UsingColors-1|`` syntax is used.
 
 ### Location
-
 Images should always be placed in the ``images`` directory in the same directory as the RST file.
 
 ### Naming
