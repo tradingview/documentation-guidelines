@@ -83,3 +83,14 @@ This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` 
 We use "PagePagename_SectionName" for section anchors, where "PagePagename" is the page the section belongs to,  
 e.g., `.. _PageColors_ZIndex:` for the "Z-Index" section of the page on Colors.
 
+
+
+## UI names (dialog boxes, buttons, tabs, etc.)
+
+We enclose UI element names in double quotes. Use a slash to separate elements in menus paths:
+
+```
+Open the "Create Alert" dialog box using ALT + A
+The script's "Settings/Inputs" tab
+Use the Editor's "Open/My script..." menu.
+```
