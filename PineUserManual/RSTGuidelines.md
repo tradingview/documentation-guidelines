@@ -62,6 +62,19 @@ Using \`bgcolor()\`
 
 
 
+## Pine forms and types
+
+We enclose form and type names in straight double quotes: "const", "int", "float", "simple color".
+
+We can use *type* to mean the "form-type" pair, but it's preferable to avoid it when we can. To do so, we can use workarounds like:
+
+```
+The ``length`` parameter requires a "simple int" argument.
+A "series float" variable cannot be used there.
+```
+
+
+
 ## References to other pages or sections
 
 ### Within the User Manual
