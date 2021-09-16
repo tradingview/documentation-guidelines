@@ -85,12 +85,12 @@ When linking to other pages or sections of the User Manual, use *anchored refere
 
 1. Define the anchor using:
     ```
-    `.. _anchorText:`
+    `.. _PageName_SectionName:`
     ```
 
 2. Link to the anchor using:
     ```
-    :ref:`link_text <anchorText>`
+    :ref:`link_text <PageName_SectionName>`
     ```
     ``link_text`` is the link's visible text in the doc. It is mandatory for the reference to work.
 
