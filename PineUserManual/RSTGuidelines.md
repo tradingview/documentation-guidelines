@@ -89,7 +89,12 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     `.. _anchorText:`
     ```
 
-2. Link to the anchor using `` :ref:`link_text <anchorText>` `` if you want "link_text" to be the link's visible text, or `` :ref:`<anchorText>` `` if you want to use the text from the header immediately following the anchor in the linked file.
+2. Link to the anchor using:
+
+```
+:ref:`link_text <anchorText>`
+```
+``link_text`` is the link's visible text in the doc. It is mandatory for the reference to work.
 
 #### Anchor naming
 
