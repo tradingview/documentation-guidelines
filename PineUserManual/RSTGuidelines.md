@@ -80,15 +80,13 @@ A "series float" variable cannot be used there.
 ## References to other pages or sections of the User Manual
 
 When linking to other pages or sections of the User Manual, use *anchored references*.
+Anchored references require a definition in the target page, 
+and the use of ``:ref:`` directives when linking to the anchor from any RST file.
 
-##### For page references
+##### To refer to pages
 
-We use "PagePagename" for the page anchor names, and place the anchor definition on the very first line of the page.
-
-, which is placed at the top of the file, e.g., `.. _PageTypeSystem:`. 
-This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` ``.
-
-When linking to other pages or sections of the User Manual, use *anchored references*. They require two steps:
+Use the "PagePagename" style for page anchor names. 
+Place the anchor definition on the very first line of the page.
 
 1. Define the ``PagePagename`` anchor in the page you will be linking **to**, by using:
     ```
@@ -111,7 +109,7 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     ------------
     ```
 
-2. Link to that anchor from any RST file using the ``:ref:`` directive:
+2. To refer to that anchor from any RST file, use the ``:ref:`` directive:
     ```
     :ref:`link_text <PageTypeSystem>`
     ```
@@ -125,13 +123,27 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     The type system is intimately linked to Pine's :ref:`execution model <PageExecutionModel>`.
     ```
 
-#### Anchor naming conventions
+##### To refer to sections
 
-##### For page sections
+Use the "PagePagename_SectionName" style for section anchor names, where the ``PagePagename`` prefix is the page's anchor name.
+If a page anchor does not already exist, you should create one to ensure it uses the anchor name you will be using as a prefix in your section anchor names.
 
-We use "PagePagename_SectionName" for section anchors, where "PagePagename" is the page the section belongs to,  
-e.g., `.. _PageColors_ZIndex:` for the "Z-Index" section of the page on Colors.
+To refer to the "Z-index" section of the "Colors" page, use `.. _PageColors_ZIndex:`:
 
+1. Define your anchor above the section's title, leaving one empty line after it:
+    ```
+    .. _PageColors_ZIndex:
+
+    Z-index
+    ^^^^^^^
+
+    When you place elements in a script's visual space, they have relative depth on the *z* axis; some will appear on top of others. 
+    ```
+
+2. 2. To refer to that anchor from any RST file, use the ``:ref:`` directive:
+    ```
+    :ref:`link_text <PageColors_ZIndex>`
+    ```
 
 
 ## UI names (dialog boxes, buttons, tabs, etc.)
