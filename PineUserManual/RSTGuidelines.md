@@ -5,21 +5,21 @@
 
 ## Images
 
-### References
+#### References
 The easiest way to place images is by using: 
 ```
 .. image:: images/Colors-UsingColors-1.png
 ```
 which requires only one line and no references at the end of the file, as is the cas when the ``|Colors-UsingColors-1|`` syntax is used.
 
-### Location
+#### Location
 Images should always be placed in the ``images`` directory in the same directory as the RST file.
 
-### Naming
+#### Naming
 
 Image names should use the following nomenclature: ``PageName-SectionName-[x/text].ext`` where ``x`` can be a sequential digit, or ``text`` can be used to further qualify the image. Examples: ``Arrays-HistoryReferencing.png``, ``Arrays-ManipulatingArrays-Concat.png``, ``Colors-CalculatingColors-1.png``.
 
-### Screenshots
+#### Screenshots
 
 Images should ideally have an even number of pixels in height and width.
 
@@ -77,19 +77,26 @@ A "series float" variable cannot be used there.
 
 
 
-## References to other pages or sections
+## References to other pages or sections of the User Manual
 
-### Within the User Manual
+When linking to other pages or sections of the User Manual, use *anchored references*.
+
+##### For page references
+
+We use "PagePagename" for the page anchor names, and place the anchor definition on the very first line of the page.
+
+, which is placed at the top of the file, e.g., `.. _PageTypeSystem:`. 
+This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` ``.
 
 When linking to other pages or sections of the User Manual, use *anchored references*. They require two steps:
 
-1. Define the anchor in the page you will be linking **to**, by using:
+1. Define the ``PagePagename`` anchor in the page you will be linking **to**, by using:
     ```
-    `.. _PageName_SectionName:`
+    `.. _PageTypeSystem:`
     ```
     so the page's beginning looks like:
     ```
-    `.. _PageName_SectionName:`
+    `.. _PageTypeSystem:`
 
     Type system
     ===========
@@ -104,20 +111,21 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     ------------
     ```
 
-2. Link to the anchor using:
+2. Link to that anchor from any RST file using the ``:ref:`` directive:
     ```
-    :ref:`link_text <PageName_SectionName>`
+    :ref:`link_text <PageTypeSystem>`
     ```
     ``link_text`` is the link's visible text in the doc. It is mandatory for the reference to work.
-    Note that the leading underscore in the definition of the anchor must not be present when we link to the anchor.
-    Also note that some ``link_text`` is necessary, and that a space must follow it before the ``<PageName_SectionName>`` part.
+    Note that the leading underscore in the definition of the anchor must **not** be present when we link to the anchor.
+    Also note that some ``link_text`` is **mandatory**, and that a space **must** follow it before the ``<PageTypeSystem>`` part.
+    
+    Text using the reference could look like:
+    
+    ```
+    The type system is intimately linked to Pine's :ref:`execution model <PageExecutionModel>`.
+    ```
 
 #### Anchor naming conventions
-
-##### For pages
-
-We use "PagePagename" for the page anchor, which is placed at the top of the file, e.g., `.. _PageTypeSystem:`. 
-This allows us to refer to that page using `` :ref:`link text <PageTypeSystem>` ``.
 
 ##### For page sections
 
