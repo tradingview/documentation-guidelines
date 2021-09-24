@@ -26,7 +26,7 @@ Images should ideally have an even number of pixels in height and width.
 Screenshots should be taken using the English version of the platform and the ShareX macro that Tim has created to add a thin blue border with rounded corners.
 
 
-### Code examples
+## Code examples
 
 Code snippets should conform to our [Style guide](https://www.tradingview.com/pine-script-docs/en/v4/Style_guide.html).
 
