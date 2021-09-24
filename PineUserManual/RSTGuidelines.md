@@ -87,6 +87,20 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     ```
     `.. _PageName_SectionName:`
     ```
+    so the page's beginning looks like:
+    ```
+    Type system
+    ===========
+
+    .. contents:: :local:
+        :depth: 3
+
+    .. include:: <isonum.txt>
+
+
+    Introduction
+    ------------
+    ```
 
 2. Link to the anchor using:
     ```
