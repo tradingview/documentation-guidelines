@@ -89,6 +89,8 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     ```
     so the page's beginning looks like:
     ```
+    `.. _PageName_SectionName:`
+
     Type system
     ===========
 
