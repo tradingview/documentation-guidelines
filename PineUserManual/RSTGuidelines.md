@@ -140,7 +140,7 @@ To refer to the "Z-index" section of the "Colors" page, use `.. _PageColors_ZInd
     When you place elements in a script's visual space, they have relative depth on the *z* axis; some will appear on top of others. 
     ```
 
-2. 2. To refer to that anchor from any RST file, use the ``:ref:`` directive:
+2. To refer to that anchor from any RST file, use the ``:ref:`` directive:
     ```
     :ref:`link_text <PageColors_ZIndex>`
     ```
