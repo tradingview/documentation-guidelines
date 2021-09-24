@@ -93,8 +93,10 @@ When linking to other pages or sections of the User Manual, use *anchored refere
     :ref:`link_text <PageName_SectionName>`
     ```
     ``link_text`` is the link's visible text in the doc. It is mandatory for the reference to work.
+    Note that the leading underscore in the definition of the anchor must not be present when we link to the anchor.
+    Also note that some ``link_text`` is necessary, and that a space must follow it before the ``<PageName_SectionName>`` part.
 
-#### Anchor naming
+#### Anchor naming conventions
 
 ##### For pages
 
