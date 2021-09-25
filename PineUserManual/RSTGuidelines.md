@@ -3,6 +3,7 @@
 ### Table of Contents
 
 - [Images](#images)
+- [Code examples](#code-examples)
 - [Pine keywords](#pine-keywords)
 - [Forms and types](#forms-and-types)
 - [Internal References](#internal-references)
