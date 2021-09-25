@@ -1,5 +1,12 @@
 # RST guidelines
 
+### Table of Contents
+
+- [Images](#images)
+- [Pine keywords](#pine-keywords)
+- [Forms and types](#forms-and-types)
+- [Internal References](#internal-references)
+- [UI names](#ui-names)
 
 
 
@@ -64,7 +71,7 @@ Using \`bgcolor()\`
 
 
 
-## Pine forms and types
+## Forms and types
 
 We enclose form and type names in straight double quotes: "const", "int", "float", "simple color".
 
@@ -77,7 +84,7 @@ A "series float" variable cannot be used there.
 
 
 
-## References to other pages or sections of the User Manual
+## Internal References
 
 When linking to other pages or sections of the User Manual, use *anchored references*.
 Anchored references require a definition in the target page, 
@@ -149,9 +156,11 @@ To refer to the "Z-index" section of the "Colors" page, use `.. _PageColors_ZInd
     ```
 
 
-## UI names (dialog boxes, buttons, tabs, etc.)
+## UI names
 
-We enclose UI element names in double quotes. Use a slash to separate elements in menus paths:
+We enclose UI element names in double quotes. Use a slash to separate elements in menus paths.
+
+This applies to dialog boxes names, tab names, button names, menu selections, etc.:
 
 ```
 Open the "Create Alert" dialog box using ALT + A
