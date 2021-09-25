@@ -46,16 +46,16 @@ where ``[text]`` is optional text.
 
 ## Pine keywords
 
-When referring to a function, always include "()" after its name. This helps distinguish between the `ta.tr` variable and the `ta.tr()` function.
+When referring to a function, always include ``()`` after its name. This helps distinguish between the `ta.tr` variable and the `ta.tr()` function, for example.
 
-If we are referring to a function, variable or operator for which a Reference Manual entry exists, we create a link for it using:
+Use external links like the following one for ALL Pine keywords with an entry in the Reference Manual: ``indicator()``, ``plot.style_line``, ``if``, ``na``, ``true``, etc.::
 
 ```
 `ta.tr <https://www.tradingview.com/pine-script-reference/v5/#var_ta{dot}tr>`__
 `ta.tr() <https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}tr>`__
 ```
 
-When Pine keywords must be included in headings, we use visible backticks to wrap the keywords because monospace doesn't apparently work well in headings:
+When Pine keywords must be included in headings, we use visible backticks to wrap the keywords because monospace doesn't apparently work well in headings. We escape the backtick with a backslash. Extend the level marks under the title to include the last backtick:
 
 ```
 Using \`bgcolor()\`
