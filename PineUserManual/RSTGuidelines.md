@@ -102,7 +102,6 @@ Place the anchor definition on the very first line of the page.
     .. contents:: :local:
         :depth: 3
 
-    .. include:: <isonum.txt>
 
 
     Introduction
@@ -132,12 +131,16 @@ To refer to the "Z-index" section of the "Colors" page, use `.. _PageColors_ZInd
 
 1. Define your anchor above the section's title, leaving one empty line after it:
     ```
+    Previous section's last paragraph's line, followed by three empty lines.
+    
+    
+    
     .. _PageColors_ZIndex:
 
     Z-index
     ^^^^^^^
 
-    When you place elements in a script's visual space, they have relative depth on the *z* axis; some will appear on top of others. 
+    First line of the "Z-index" section. 
     ```
 
 2. To refer to that anchor from any RST file, use the ``:ref:`` directive:
