@@ -13,6 +13,8 @@
 
 ## Images
 
+Screenshots should always have an even number of pixels in height and width. This produces better clarity when images are scaled.
+
 #### References
 The easiest way to place images is by using: 
 ```
