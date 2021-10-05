@@ -8,6 +8,7 @@
 - [Forms and types](#forms-and-types)
 - [Internal References](#internal-references)
 - [UI names](#ui-names)
+- [Keyboard shortcuts](#keyboard-shortcuts)
 
 
 
@@ -172,11 +173,9 @@ Use the Editor's "Open/My script..." menu.
 ```
 
 
-Keyboard shortcuts
+## Keyboard shortcuts
 
-Use the ``:kbd:`` directive for key names.
-
-Use all lowercase letters for the key names.
+Use the ``:kbd:`` directive and lowercase letters for the key names:
 
 ```
 Use :kbd:`ctrl` + :kbd:`click` / :kbd:`cmd` + :kbd:`click` on Pine keywords to launch the popup Reference Manual.
