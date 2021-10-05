@@ -170,3 +170,15 @@ Open the "Create Alert" dialog box using ALT + A
 The script's "Settings/Inputs" tab
 Use the Editor's "Open/My script..." menu.
 ```
+
+
+Keyboard shortcuts
+
+Use the ``:kbd:`` directive for key names.
+
+Use all lowercase letters for the key names.
+
+```
+Use :kbd:`ctrl` + :kbd:`click` / :kbd:`cmd` + :kbd:`click` on Pine keywords to launch the popup Reference Manual.
+It provides an auto-complete feature that you can activate with :kbd:`ctrl` + :kbd:`space` / :kbd:`cmd` + :kbd:`space`.
+```
