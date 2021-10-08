@@ -2,6 +2,8 @@
 
 ### Table of Contents
 
+- [RST Filenames](#rst-filenames)
+- [Automatic table of contents](#automatic-table-of-contents)
 - [Images](#images)
 - [Code examples](#code-examples)
 - [Pine keywords](#pine-keywords)
@@ -9,6 +11,28 @@
 - [Internal References](#internal-references)
 - [UI names](#ui-names)
 - [Keyboard shortcuts](#keyboard-shortcuts)
+
+
+
+## RST Filenames
+Take a page title, replace all spaces with underscores (`_`), remove all punctuation (except dashes, `-`), add `.rst` extension.
+A page with this title, for example:
+```
+Expressions, declarations and statements
+========================================
+```
+Should be saved on disk as `Expressions_declarations_and_statements.rst`.
+
+
+## Automatic table of contents
+Use the `contents`  directive after the page's title. You can specify the number of levels needed with ``:depth:``:
+```
+Expressions, declarations and statements
+========================================
+
+.. contents:: :local:
+    :depth: 2
+```
 
 
 
@@ -35,6 +59,7 @@ Image names should use the following nomenclature: ``PageName-SectionName-[x/tex
 Images should ideally have an even number of pixels in height and width.
 
 Screenshots should be taken using the English version of the platform and the ShareX macro that Tim has created to add a thin blue border with rounded corners.
+
 
 
 ## Code examples
