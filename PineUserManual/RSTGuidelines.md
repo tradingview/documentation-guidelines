@@ -18,17 +18,17 @@
 Take a page title, replace all spaces with underscores (`_`), remove all punctuation (except dashes, `-`), add `.rst` extension.
 A page with this title, for example:
 ```
-Expressions, declarations and statements
-========================================
+User-defined functions
+======================
 ```
-Should be saved on disk as `Expressions_declarations_and_statements.rst`.
+Should be saved on disk as `User-defined_functions.rst`.
 
 
 ## Automatic table of contents
 Use the `contents`  directive after the page's title. You can specify the number of levels needed with ``:depth:``:
 ```
-Expressions, declarations and statements
-========================================
+User-defined functions
+======================
 
 .. contents:: :local:
     :depth: 2
