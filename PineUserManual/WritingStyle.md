@@ -39,14 +39,10 @@ We use italics (marked up as ``*italic text*``) when introducing concepts, e.g.:
 - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
 
 
-### Bold
-We use bold (marked up as ``**text**``) to indicate emphasis, e.g.:
+
+### Monospace
+We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pine code segments **that are not a Pine buil-in variable or function name** e.g.:
 - This line must be the **last** one in the local block.
-
-
-* One asterisk: `*text*` for emphasis (italics),
-* Two asterisks: `**text**` for strong emphasis (boldface), and
-* Two backquotes: &#96;&#96;text&#96;&#96; for inline code samples.
 
 
 
