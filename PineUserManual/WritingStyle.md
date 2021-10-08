@@ -39,6 +39,11 @@ We use bold (marked up as ``**text**``) to indicate emphasis, e.g.:
 
 
 
+### Em dash
+We use a space on each side of Em dashes:
+- Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
+
+
 ### Special unicode characters
 
 There is a set of macros in file [isonum.txt](http://docutils.sourceforge.net/docs/ref/rst/definitions.html).
