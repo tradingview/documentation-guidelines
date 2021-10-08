@@ -206,3 +206,13 @@ Use the ``:kbd:`` directive and lowercase letters for the key names:
 Use :kbd:`ctrl` + :kbd:`click` / :kbd:`cmd` + :kbd:`click` on Pine keywords to launch the popup Reference Manual.
 It provides an auto-complete feature that you can activate with :kbd:`ctrl` + :kbd:`space` / :kbd:`cmd` + :kbd:`space`.
 ```
+
+
+### Special unicode characters
+There is a set of macros in file [isonum.txt](http://docutils.sourceforge.net/docs/ref/rst/definitions.html).
+For example for &rarr; (RIGHTWARDS ARROW) use `|rarr|` macro. 
+For example:
+```
+..    include:: <isonum.txt>
+Indicators |rarr| Built-ins
+```
