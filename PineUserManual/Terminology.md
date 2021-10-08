@@ -1,7 +1,5 @@
 # Terminology
 
-We use U.S. English standards.
-
 ### argument vs parameter
 We use "parameter" to designate the name of the values a function accepts when referring to the function's signature, or to the function in general. 
 When referring to values passed to a function when calling it, we use "argument":
