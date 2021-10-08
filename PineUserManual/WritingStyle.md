@@ -41,7 +41,7 @@ We use italics (marked up as ``*italic text*``) when introducing concepts, e.g.:
 
 
 ### Monospace
-We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pine code segments **that are not a Pine buil-in variable or function name** e.g.:
+We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pine code segments **that are not a Pine built-in variable or function name** e.g.:
 - This line must be the **last** one in the local block.
 
 
