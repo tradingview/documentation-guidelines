@@ -29,7 +29,17 @@ American style which considers a double quotes are the default ones. Single quot
 
 
 
-### Bold face
+### Bold
+We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
+- This line must be the **last** one in the local block.
+
+
+### Italics
+We use italics (marked up as ``*italic text*``) when introducing concepts, e.g.:
+- [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
+
+
+### Bold
 We use bold (marked up as ``**text**``) to indicate emphasis, e.g.:
 - This line must be the **last** one in the local block.
 
