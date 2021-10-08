@@ -5,9 +5,10 @@ We use U.S. English style and spelling standards, unless otherwise specified her
 ## Style
 
 ### Tone
-- Use "We" — never "I"
-- We try to mix the assertive tone fitting to documentation with more engaging language such as:
-  - Let's look at an example where...
+Use "We" — never "I"
+
+We try to mix the assertive tone fitting to documentation with more engaging language such as:
+- Let's look at an example where...
 
 
 
@@ -16,7 +17,7 @@ We use U.S. English style and spelling standards, unless otherwise specified her
 
 
 ### Capitalization of titles
-* Capitalize only the first word of the title
+Capitalize only the first word of the title
 
 
 
@@ -44,12 +45,4 @@ We use a space on each side of Em dashes:
 - Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 
-### Special unicode characters
 
-There is a set of macros in file [isonum.txt](http://docutils.sourceforge.net/docs/ref/rst/definitions.html).
-For example for &rarr; (RIGHTWARDS ARROW) use `|rarr|` macro. 
-For example:
-```
-..    include:: <isonum.txt>
-Indicators |rarr| Built-ins
-```
