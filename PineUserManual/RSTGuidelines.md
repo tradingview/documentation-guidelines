@@ -39,7 +39,7 @@ User-defined functions
 ## Images
 
 Keep the following in mind:
-- Screenshots should always have an even number of pixels in height and width. This produces better clarity when images are scaled.
+- Screenshots **must always have an even number of pixels in height and width**. This produces better clarity when images are scaled.
 - Design your chart so what we are trying to illustrate is most prominent, e.g.:
     - If candles are not required, consider using bars.
     - If candles are required but the focal point of the chart, consider using 20% opacity on their normal colors to make them less prominent.
