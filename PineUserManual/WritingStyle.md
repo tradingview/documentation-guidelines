@@ -7,6 +7,10 @@
 - [Typographic conventions](#typographic-conventions)
   - [Capitalization of titles](#tone)
   - [Quotation marks](#quotation-marks)
+  - [Bold](#bold)
+  - [Italics](#italics)
+  - [Monospace](#monospace)
+  - [Em dash](#em-dash)
 
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
