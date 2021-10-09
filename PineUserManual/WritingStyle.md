@@ -35,7 +35,7 @@ We try to mix the assertive tone fitting to documentation with more engaging lan
 ### Presentation of examples
 When we present code examples, we use the following order:
 
-1. A brief introduction.
+1. A brief introduction ending with a colon (":").
 2. The screenshot, if there is one.
 3. The code.
 4. The explanatory segment starting with "Note that:", followed by bullet points.
