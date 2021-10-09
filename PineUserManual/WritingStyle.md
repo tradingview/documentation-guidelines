@@ -50,6 +50,7 @@ See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concept
 
 
 ### Pine keywords
+See [the section on Pine keywords in the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#pine-keywords).
 
 
 
