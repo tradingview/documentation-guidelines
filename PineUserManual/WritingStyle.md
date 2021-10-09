@@ -25,7 +25,7 @@ We use U.S. English style and spelling standards, unless otherwise specified her
 
 
 ### Tone
-Use "We" — never "I"
+Use "We" — never "I".
 
 We try to mix the assertive tone fitting to documentation with more engaging language such as:
 - Let's look at an example where...
