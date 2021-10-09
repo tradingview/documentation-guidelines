@@ -1,5 +1,14 @@
 # Writing Style
 
+### Table of Contents
+
+- [Style](#style)
+  - [Tone](#tone)
+- [Typographic conventions](#typographic-conventions)
+  - [Capitalization of titles](#tone)
+  - [Quotation marks](#quotation-marks)
+
+
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
 ## Style
