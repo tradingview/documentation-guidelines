@@ -38,7 +38,15 @@ User-defined functions
 
 ## Images
 
-Screenshots should always have an even number of pixels in height and width. This produces better clarity when images are scaled.
+Keep the following in mind:
+- Screenshots should always have an even number of pixels in height and width. This produces better clarity when images are scaled.
+- Design your chart so what we are trying to illustrate is most prominent, e.g.:
+    - If candles are not required, consider using bars.
+    - If candles are required but the focal point of the chart, consider using 20% opacity on their normal colors to make them less prominent.
+    - Use a horizontal and vertical zoom factor that suits what you are showing.
+- Unless specified otherwise in the RST ``image`` directive, images are scaled to occupy the full width of the HTML frame. Size screenshots accordingly, so they are wider than high. This will avoid having square screenshots of a dialog box, for example, appearing huge in the rendered pages.
+- Use the ShareX macro that produces our standard blue border with rounded corners.
+- Disable any color-adapting utilities like "f.lux" for your screenshots.
 
 #### References
 The easiest way to place images is by using: 
