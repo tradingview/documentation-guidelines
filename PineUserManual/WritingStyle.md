@@ -25,6 +25,18 @@ We try to mix the assertive tone fitting to documentation with more engaging lan
 
 
 
+### Presentation of examples
+When we present code examples, we use the following order:
+
+#. A brief introduction.
+#. The screenshot, if there is one.
+#. The code.
+#. The explanatory segment starting with "Note that:", followed by bullet points.
+
+See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html#conditional-coloring).
+
+
+
 ## Typographic conventions
 
 
