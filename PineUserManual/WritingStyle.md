@@ -28,10 +28,10 @@ We try to mix the assertive tone fitting to documentation with more engaging lan
 ### Presentation of examples
 When we present code examples, we use the following order:
 
-#. A brief introduction.
-#. The screenshot, if there is one.
-#. The code.
-#. The explanatory segment starting with "Note that:", followed by bullet points.
+1. A brief introduction.
+2. The screenshot, if there is one.
+3. The code.
+4. The explanatory segment starting with "Note that:", followed by bullet points.
 
 See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html#conditional-coloring).
 
@@ -60,7 +60,8 @@ We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
 
 
 ### Italics
-We use italics (marked up as ``*italic text*``) when introducing concepts, e.g.:
+We use italics (marked up as ``*italic text*``) when:
+1. Introducing concepts, e.g.:
 - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
 
 
