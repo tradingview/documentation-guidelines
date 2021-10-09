@@ -82,7 +82,7 @@ We use italics (marked up as ``*italic text*``) when:
     - Users of your script can change its input values with the "Settings/Inputs" tab.
     - You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.
     - Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.
-
+1. Referring to form-type pairs, or forms, or types (see [the "Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
 ### Monospace
