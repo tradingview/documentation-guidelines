@@ -49,8 +49,12 @@ See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concept
 
 
 
+### Pine keywords
+
+
+
 ### Capitalization of titles
-Capitalize only the first word of the title
+Capitalize only the first word of the title and headings: "Chart information", "Other timeframes and data".
 
 
 
