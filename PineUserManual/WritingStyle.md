@@ -39,6 +39,7 @@ When we present code examples, we use the following order:
 2. The screenshot, if there is one.
 3. The code.
 4. The explanatory segment starting with "Note that:", followed by bullet points.
+    If there is only one note, use one paragraph, beginning its first sentence with "Note that".
 
 See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html#conditional-coloring).
 
