@@ -85,7 +85,9 @@ We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pi
 
 
 ### Em dash
-Contrary to standard practices in English, we use a space on each side of Em dashes. It makes them more visible with the Trebuchet MS font:
+Contrary to standard practices in English, we use a space on each side of Em dashes. 
+The EM dash is not very wide in the Trebuchet MS font used in the HTML rendition of the User Manual;
+the spaces on each side make them more prominent:
 - Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 
