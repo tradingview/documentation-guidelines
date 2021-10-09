@@ -6,6 +6,7 @@
 
 - [Style](#style)
   - [Tone](#tone)
+  - [Presentation of examples](#presentation-of-examples)
 - [Typographic conventions](#typographic-conventions)
   - [Capitalization of titles](#tone)
   - [Quotation marks](#quotation-marks)
