@@ -62,8 +62,10 @@ We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
 ### Italics
 We use italics (marked up as ``*italic text*``) when:
 1. Introducing concepts, e.g.:
-- [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
-
+  - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
+1. Referring to user interface components:
+  - Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
+  - Users of your script can change its input values with the "Settings/Inputs" tab.
 
 
 ### Monospace
