@@ -1,5 +1,7 @@
 # Writing Style
 
+
+
 ### Table of Contents
 
 - [Style](#style)
@@ -15,7 +17,11 @@
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
+
+
 ## Style
+
+
 
 ### Tone
 Use "We" — never "I"
@@ -59,6 +65,7 @@ We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
 - This line must be the **last** one in the local block.
 
 
+
 ### Italics
 We use italics (marked up as ``*italic text*``) when:
 1. Introducing concepts, e.g.:
@@ -66,6 +73,9 @@ We use italics (marked up as ``*italic text*``) when:
 1. Referring to user interface components:
     - Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
     - Users of your script can change its input values with the "Settings/Inputs" tab.
+    - You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.
+    - Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.
+
 
 
 ### Monospace
@@ -75,7 +85,7 @@ We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pi
 
 
 ### Em dash
-We use a space on each side of Em dashes:
+Contrary to standard practices in English, we use a space on each side of Em dashes. It makes them more visible with the Trebuchet MS font:
 - Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 
