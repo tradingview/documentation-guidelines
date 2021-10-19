@@ -47,13 +47,11 @@ Favor readability over conciseness.
 
 We use the following text to close all blog posts:
 
-```
-To stay informed of new Pine features, keep an eye on our Pine User Manual's [Release notes](https://www.tradingview.com/pine-script-docs/en/v4/Release_notes.html).
+> To stay informed of new Pine features, keep an eye on our Pine User Manual's [Release notes](https://www.tradingview.com/pine-script-docs/en/v4/Release_notes.html).
 The [PineCoders](https://www.tradingview.com/u/PineCoders/) account also broadcasts updates from its [Squawk Box](https://t.me/PineCodersSquawkBox) Telegram channel, 
 [Twitter account](https://twitter.com/PineCoders), and from the Pine Script public chat on TradingView.
 
-We hope you find this highly-requested feature useful. Please keep giving  us your feedback and suggestions for improvement — we build TradingView for you, and we’re always keen to hear from you.
-```
+> We hope you find this highly-requested feature useful. Please keep giving  us your feedback and suggestions for improvement — we build TradingView for you, and we’re always keen to hear from you.
 
 
 
