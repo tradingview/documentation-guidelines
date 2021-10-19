@@ -17,7 +17,7 @@ We use U.S. English style and spelling standards, unless otherwise specified her
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
-Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes funny, and to the point. If you are unsure, ask for help from James.
+Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James.
 
 
 
