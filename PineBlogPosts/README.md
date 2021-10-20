@@ -5,7 +5,7 @@
 ### Table of Contents
 
 - [Process](#process)
-- [Writing Style](#style)
+- [Writing Style](#writing-style)
 - [Structure](#structure)
 - [Typographic conventions](#typographic-conventions)
 
