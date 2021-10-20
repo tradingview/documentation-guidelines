@@ -44,7 +44,7 @@ Use this stucture for all posts:
 4. The "What's new" **notification text** to be used for the blog post.
 
 
-#### Code examples
+## Code examples
 
 Our code examples should:
 
@@ -55,7 +55,7 @@ Our code examples should:
 Favor readability over conciseness.
 
 
-#### Closing paragraphs
+### Closing paragraphs
 
 We use the following text to close all blog posts:
 
