@@ -7,14 +7,17 @@
 - [Process](#process)
 - [Writing Style](#writing-style)
 - [Structure](#structure)
-  - [Code examples](#code-examples)
-  - [Closing paragraphs](#closing-paragraphs)
+  - [Code Examples](#code-examples)
+  - [Closing Paragraphs](#closing-paragraphs)
   - [Screenshots](#screenshots)
-- [Typographic conventions](#typographic-conventions)
-  - [Pine keywords](#pine-keywords)
-  - [Inline code](#inline-code)
-  - [Block code](#block-code)
-  - [Capitalization of titles](#capitalization-of-titles)
+- [Typographic Conventions](#typographic-conventions)
+  - [Pine Keywords](#pine-keywords)
+  - [Inline Code](#inline-code)
+  - [Block Code](#block-code)
+  - [Capitalization of Titles](#capitalization-of-titles)
+  - [UI Component Names](#ui-component-ames)
+  - [Double Quotes](#double-quotes)
+  - [Structure](#structure)
   - [Structure](#structure)
   - [Structure](#structure)
   - [Structure](#structure)
@@ -65,7 +68,7 @@ Our code examples should:
 Favor readability over conciseness.
 
 
-### Closing paragraphs
+### Closing Paragraphs
 
 We use the following text to close all blog posts:
 
@@ -83,11 +86,11 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 
-## Typographic conventions
+## Typographic Conventions
 
 
 
-### Pine keywords
+### Pine Keywords
 Whenever we use a Pine keyword that has an entry in the Reference Manual, we link it to its entry, which accomplishes two things:
 - It helps readers by providing easy access to the Reference Manual.
 - It formats the keyword in blue, which makes it stand out.
@@ -102,7 +105,7 @@ Use the standard linking feature in Google docs to mark up keywords; the links w
 
 
 
-### Inline code
+### Inline Code
 We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 - Use the ```confirm``` parameter to...
 - Our ```if barstate``` line...
@@ -114,17 +117,17 @@ Text wrapped in backticks will be converted to monospace by Alexander:
 
 
 
-### Block code
+### Block Code
 We format block code in a monospace font in the post's document.
 
 
 
-#### Capitalization of titles
+#### Capitalization of Titles
 Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Capitalize My Title](https://capitalizemytitle.com/) to produce correctly capitalized titles.
 
 
 
-### UI element names
+### UI Component Names
 We wrap UI component names in double quotes:
 - Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
 - Users of your script can change its input values with the "Settings/Inputs" tab.
@@ -134,7 +137,7 @@ We wrap UI component names in double quotes:
 
 
 ### Double Quotation Marks
-We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
+Besides UI We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
 American style which considers a double quotes are the default ones. Single quotes are used if nested in the double ones. For example: 
 * Joe said, "Will you marry me?"
 * Joe smiled and said, "Jenny said 'yes' when I asked her to marry me."
