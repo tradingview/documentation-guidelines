@@ -119,13 +119,17 @@ Unless otherwise specified, we use U.S. English style and spelling standards.
 
 ## Process
 
-We mentioned this in the introduction:
-> Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires time; we must ensure they have enough of it to do their work properly.
-
-- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
-- If you cannot think of useful code examples, ask PineCoders in the or Luc.
-
-Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders in the "PineCoders+TV Testing" room to ensure we have some examples.
+- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. 
+  This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
+- If you cannot think of useful code examples, ask PineCoders in one of the PineCoders rooms, or Luc.
+- Warn Alexander ahead of time and plan an approximate publishing date with him. 
+  Some periods are busier than others and there is a limit to the frequency of blog post publications.
+- Write a first draft of your post and share it with Luc so he can review it.
+- Ask Laurie to review the post's text. She keeps a spreadsheet to track edits requests: 
+  [TradingView: Edits tracker](https://docs.google.com/spreadsheets/d/1sNC7AuV1T3fafiXeM-YLASXi-j2uXOvGSslMPRbOpc8/edit#gid=0). 
+  Make an entry in it for your post.
+- Ask Veniamin to do the lead image and the screenshots that will appear in the post.
+- When you are happy with the post, let Alexander know.
 
 
 
