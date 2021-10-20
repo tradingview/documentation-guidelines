@@ -18,13 +18,12 @@
   - [Capitalization of Titles](#capitalization-of-titles)
   - [UI Component Names](#ui-component-names)
   - [Double Quotation Marks](#double-quotation-marks)
-  - [Structure](#structure)
-  - [Structure](#structure)
-  - [Structure](#structure)
-  - [Structure](#structure)
-
+  - [Bold](#bold)
+  - [Italics](#italics)
+  - [Em dash](#em-dash)
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
+
 
 
 ## Process
@@ -86,6 +85,7 @@ This is a code example that could have been better. Something more useful to tra
 ![.](images/CodeExamplePoor.png "Poor example code")
 
 
+
 ### Closing Paragraphs
 
 We use the following text to close all blog posts:
@@ -122,6 +122,7 @@ This is an example of a dialog box screenshot that has been properly scaled:
 
 
 ### Pine Keywords
+
 Whenever we use a Pine keyword that has an entry in the Reference Manual, we link it to its entry, which accomplishes two things:
 - It helps readers by providing easy access to the Reference Manual.
 - It formats the keyword in blue, which makes it stand out.
@@ -137,6 +138,7 @@ Use the standard linking feature in Google docs to mark up keywords; the links w
 
 
 ### Inline Code
+
 We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 > Use the ```confirm``` parameter to...  
   Our ```if barstate``` line...  
@@ -149,16 +151,19 @@ Text wrapped in backticks will be converted to monospace by Alexander:
 
 
 ### Block Code
+
 We format block code in a monospace font in the Google doc.
 
 
 
 ### Capitalization of Titles
+
 Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Capitalize My Title](https://capitalizemytitle.com/) to produce correctly capitalized titles.
 
 
 
 ### UI Component Names
+
 We wrap UI component names in double quotes, e.g.:
 > Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.  
 > Users of your script can change its input values with the "Settings/Inputs" tab.  
@@ -168,7 +173,8 @@ We wrap UI component names in double quotes, e.g.:
 
 
 ### Double Quotation Marks
-Besides UI component names, we use double quotes when referring to:
+
+As stated in the previous section, we use double quotes for UI component names, and when referring to:
 - The title of a publication on TradingView or elsewhere, as in:
   > The "CAGR" indicator...
 - Form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
@@ -176,18 +182,21 @@ Besides UI component names, we use double quotes when referring to:
 
 
 ### Bold
+
 We use bold to indicate emphasis, e.g.:
 > This line must be the **last** one in the local block.
 
 
 
 ### Italics
+
 We use italics when introducing concepts, e.g.:
 > [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
 
 
 
 ### Em dash
+
 Contrary to standard practices in English, we use a space on each side of Em dashes. 
 The EM dash is not very wide in the Trebuchet MS font used in blog posts; the spaces on each side make them more prominent:
 > Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
