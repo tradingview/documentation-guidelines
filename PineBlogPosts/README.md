@@ -147,22 +147,20 @@ Besides UI component names, we use double quotes when referring to:
 
 ### Bold
 We use bold to indicate emphasis, e.g.:
-: This line must be the **last** one in the local block.
+> This line must be the **last** one in the local block.
 
 
 
 ### Italics
-We use italics when:
-1. Introducing concepts, e.g.:
-    - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
+We use italics when introducing concepts, e.g.:
+> [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
 
 
 
 ### Em dash
 Contrary to standard practices in English, we use a space on each side of Em dashes. 
-The EM dash is not very wide in the Trebuchet MS font used in the HTML rendition of the User Manual;
-the spaces on each side make them more prominent:
-- Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
+The EM dash is not very wide in the Trebuchet MS font used in blog posts; the spaces on each side make them more prominent:
+> Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 
 
