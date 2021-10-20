@@ -44,7 +44,7 @@ Use this stucture for all posts:
 4. The "What's new" **notification text** to be used for the blog post.
 
 
-### Code examples
+#### Code examples
 
 Our code examples should:
 
@@ -55,7 +55,7 @@ Our code examples should:
 Favor readability over conciseness.
 
 
-### Closing paragraphs
+#### Closing paragraphs
 
 We use the following text to close all blog posts:
 
@@ -73,19 +73,36 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 
-### Pine keywords
+#### Pine keywords
 See [the section on Pine keywords in the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#pine-keywords).
 
 ![.](images/Keywords.png "Pine keywords")
 
 
 
-### Capitalization of titles
+#### Inline code
+We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
+
+- Use the ```confirm``` parameter to...
+- Our ```if barstate``` line...
+
+Backticks will be converted by the publisher of the blog post into monospace that will look like this in the post:
+
+![.](images/Monospace.png "Monospace")
+
+
+
+#### Block code
+We format block code in a monospace font in the post's document.
+
+
+
+#### Capitalization of titles
 Capitalize only the first word of the title and headings: "Chart information", "Other timeframes and data".
 
 
 
-### Quotation marks
+#### Quotation marks
 We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
 American style which considers a double quotes are the default ones. Single quotes are used if nested in the double ones. For example: 
 * Joe said, "Will you marry me?"
@@ -93,13 +110,13 @@ American style which considers a double quotes are the default ones. Single quot
 
 
 
-### Bold
+#### Bold
 We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
 - This line must be the **last** one in the local block.
 
 
 
-### Italics
+#### Italics
 We use italics (marked up as ``*italic text*``) when:
 1. Introducing concepts, e.g.:
     - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
@@ -111,21 +128,8 @@ We use italics (marked up as ``*italic text*``) when:
 1. Referring to form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
-### Inline code
-We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 
-- Use the ```confirm``` parameter to...
-- Our ```if barstate``` line...
-
-Backticks will be converted by the publisher of the blog post into monospace that will look like this in the post:
-
-![.](images/Monospace.png "Monospace")
-
-### Block code
-We format block code in a monospace font in the post's document.
-
-
-### Em dash
+#### Em dash
 Contrary to standard practices in English, we use a space on each side of Em dashes. 
 The EM dash is not very wide in the Trebuchet MS font used in the HTML rendition of the User Manual;
 the spaces on each side make them more prominent:
