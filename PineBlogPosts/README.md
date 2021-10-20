@@ -21,6 +21,7 @@
   - [Bold](#bold)
   - [Italics](#italics)
   - [Em dash](#em-dash)
+- [Examples](#examples)
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
