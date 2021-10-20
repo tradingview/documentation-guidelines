@@ -33,7 +33,7 @@ Blog posts should be well-planned and coordinated with the rollout of the featur
 - Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
 - If you cannot think of useful code examples, ask PineCoders in the or Luc.
 
-Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders to have some 
+Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders in the "PineCoders+TV Testing" room to ensure we have some examples.
 
 
 
