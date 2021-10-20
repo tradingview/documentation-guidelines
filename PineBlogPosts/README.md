@@ -7,11 +7,15 @@
 - [Process](#process)
 - [Writing Style](#writing-style)
 - [Structure](#structure)
+  - [Code examples](#code-examples)
+  - [Closing paragraphs](#closing-paragraphs)
+  - [Screenshots](#screenshots)
 - [Typographic conventions](#typographic-conventions)
   - [Pine keywords](#pine-keywords)
   - [Inline code](#inline-code)
   - [Block code](#block-code)
   - [Capitalization of titles](#capitalization-of-titles)
+  - [Structure](#structure)
   - [Structure](#structure)
   - [Structure](#structure)
 
@@ -75,6 +79,10 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 
+### Screenshots
+
+
+
 ## Typographic conventions
 
 
@@ -88,7 +96,7 @@ Also:
 - Always use ``()`` to suffix function names.
 - When referring to a family of functions, such as ``array.*()``, use [inline code](#inline-code) markup.
 
-Linked keywords will look like this in the published posts:
+Use the standard linking feature in Google docs to mark up keywords; the links will be preserved in the post. Linked keywords will look like this in the published posts:
 
 ![.](images/Keywords.png "Pine keywords")
 
