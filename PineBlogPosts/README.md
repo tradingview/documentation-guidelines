@@ -30,9 +30,7 @@
 
 This page documents how we produce Pine-related blog posts. We'll start by looking at the structure of our posts, then see how to create them.
 
-Blog posts are a critical component of our communications with Pine coders. Script users can also often benefit from our Pine-related blog posts, which considerably increases their audience.
-
-When they are done properly, blog posts reflect the professionalism of our teams. What we say and how we say it are both important.
+Blog posts are a critical component of our communications with Pine coders. Script users can also often benefit from our Pine-related blog posts, which considerably increases their audience. When done properly, our blog posts reflect the professionalism of our teams and do their part to promote optimal perception of TradingView by our users. What we say and how we say it are both important.
 
 Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires time; we must ensure they have enough of it to do their work properly.
 
