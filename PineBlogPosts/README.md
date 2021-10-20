@@ -63,9 +63,8 @@ Our code examples should:
 
 - Follow the recommendations from our [Style guide](https://www.tradingview.com/pine-script-docs/en/v5/writing/Style_guide.html).
 - Ideally demonstrate something that can be of practical use to traders, as opposed to code merely illustrating the feature and not useful in a trading context.
+- Favor readability over conciseness.
 - Be complete, i.e., compilable. If a full demonstration would require an inordinately long script, then we can use only the relevant code lines.
-
-Favor readability over conciseness.
 
 This is good example code:
 
