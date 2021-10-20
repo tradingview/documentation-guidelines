@@ -50,7 +50,7 @@ Our writing style should be the usual TV style: no frills, no bs, engaging, some
 
 Our blog posts use the following stucture:
 
-1. An lead image in the top-left corner.
+1. A **lead image** in the top-left corner.
 1. A **catchy title** (ask help from James and Laurie if needed)
 1. A **short introductory paragraph** (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
 1. One or more **sub-sections** explaining how to use the feature, with a script example and a screenshot for each sub-section, if needed.
