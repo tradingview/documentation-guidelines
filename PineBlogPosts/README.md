@@ -15,8 +15,8 @@
   - [Inline Code](#inline-code)
   - [Block Code](#block-code)
   - [Capitalization of Titles](#capitalization-of-titles)
-  - [UI Component Names](#ui-component-ames)
-  - [Double Quotes](#double-quotes)
+  - [UI Component Names](#ui-component-names)
+  - [Double Quotation Marks](#double-quotation-marks)
   - [Structure](#structure)
   - [Structure](#structure)
   - [Structure](#structure)
@@ -137,25 +137,23 @@ We wrap UI component names in double quotes:
 
 
 ### Double Quotation Marks
-Besides UI We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
-American style which considers a double quotes are the default ones. Single quotes are used if nested in the double ones. For example: 
-* Joe said, "Will you marry me?"
-* Joe smiled and said, "Jenny said 'yes' when I asked her to marry me."
+Besides UI component names, we use double quotes when referring to:
+- The title of a publication on TradingView or elsewhere, as in:
+  - The "CAGR" indicator...
+- Form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
 
 ### Bold
-We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
+We use bold to indicate emphasis, e.g.:
 - This line must be the **last** one in the local block.
 
 
 
 ### Italics
-We use italics (marked up as ``*italic text*``) when:
+We use italics when:
 1. Introducing concepts, e.g.:
     - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
-1. Referring to user interface components:
-1. Referring to form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
 
