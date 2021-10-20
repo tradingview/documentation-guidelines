@@ -129,7 +129,7 @@ Unless otherwise specified, we use U.S. English style and spelling standards.
   [TradingView: Edits tracker](https://docs.google.com/spreadsheets/d/1sNC7AuV1T3fafiXeM-YLASXi-j2uXOvGSslMPRbOpc8/edit#gid=0). 
   Make an entry in it for your post.
 - Ask Veniamin to do the lead image and the screenshots that will appear in the post.
-- When you are happy with the post, let Alexander know.
+- When you are satisfied with the post, let Alexander know.
 
 
 
