@@ -111,15 +111,16 @@ This is an example of a dialog box screenshot that has been properly scaled:
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
-Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
+Our writing style should emulate the casual style created by James that has become our trademark: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
 
-We use U.S. English style and spelling standards, unless otherwise specified.
+Unless otherwise specified, we use U.S. English style and spelling standards.
 
 
 
 ## Process
 
-Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great blog posts. Their work requires adequate time, so it's important that we give them enough of it for them to do their work properly.
+We mentioned this in the introduction:
+> Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires time; we must ensure they have enough of it to do their work properly.
 
 - Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
 - If you cannot think of useful code examples, ask PineCoders in the or Luc.
