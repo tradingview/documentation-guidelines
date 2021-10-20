@@ -34,8 +34,7 @@ Blog posts are a critical component of our communications with Pine coders. Scri
 
 When they are done properly, blog posts reflect the professionalism of our teams. What we say and how we say it are both important.
 
-Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires adequate time, so it's important that we give them enough of it for them to do their work properly.
-
+Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires time; we must ensure they have enough of it to do their work properly.
 
 
 
