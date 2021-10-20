@@ -7,6 +7,7 @@
 - [Process](#process)
 - [Writing Style](#writing-style)
 - [Structure](#structure)
+  - [Lead Image](#lead-image)
   - [Code Examples](#code-examples)
   - [Closing Paragraphs](#closing-paragraphs)
   - [Screenshots](#screenshots)
@@ -101,6 +102,11 @@ You can pick up the standard text to paste it in your blog post from [this doc](
   This is particularly important for square screenshots of a dialog box, for example, as they would be too large in the published page without a proper frame. 
   Such screenshots must be artifically framed to achieve a correct x:y ratio.
 - Consider using an animated GIF if it demonstrates the feature more effectively.
+
+This is an example of a dialog box screenshot that has been properly scaled:
+
+![.](images/ProperScreenshotScaling.png "Properly scaled screenshot")
+
 
 
 ## Typographic Conventions
