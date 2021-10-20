@@ -76,6 +76,8 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 ### Pine keywords
 See [the section on Pine keywords in the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#pine-keywords).
 
+![.](image/Keywords.png "Pine keywords")
+
 
 
 ### Capitalization of titles
@@ -113,6 +115,7 @@ We use italics (marked up as ``*italic text*``) when:
 We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pine code segments **that are not a Pine built-in variable or function name** e.g.:
 - This line must be the **last** one in the local block.
 
+![.](image/Keywords.png "Pine keywords")
 
 
 ### Em dash
@@ -122,4 +125,6 @@ the spaces on each side make them more prominent:
 - Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 
+## Examples
 
+[Pine Scripts Are Now Interactive](https://www.tradingview.com/blog/en/pine-scripts-are-now-interactive-27147/)
