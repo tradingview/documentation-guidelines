@@ -60,7 +60,9 @@ Our blog posts use the following stucture:
 
 ### Lead Image
 Veniamin does the lead image, but we should help him out by either providing a screenshot for it, or asking him to design a custom graphic. 
-Make sure he has enough time to do his thing.
+Make sure he has enough time to do his thing. This is an example of a lead image:
+
+![.](images/LeadImage.png "Pine keywords")
 
 
 
