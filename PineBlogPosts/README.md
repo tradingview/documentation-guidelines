@@ -77,6 +77,14 @@ Our code examples should:
 
 Favor readability over conciseness.
 
+This is good example code:
+
+![.](images/CodeExampleGood.png "Good example code")
+
+This is a code example that could have been better. Something more useful to traders could have been coded here while keeping the example short:
+
+![.](images/CodeExamplePoor.png "Poor example code")
+
 
 ### Closing Paragraphs
 
