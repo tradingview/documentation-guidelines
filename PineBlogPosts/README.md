@@ -130,10 +130,10 @@ Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com
 
 ### UI Component Names
 We wrap UI component names in double quotes, e.g.:
-> Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
-> Users of your script can change its input values with the "Settings/Inputs" tab.
-> You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.
-> Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.
+> Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.  
+> Users of your script can change its input values with the "Settings/Inputs" tab.  
+> You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.  
+> Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.  
 
 
 
