@@ -1,47 +1,71 @@
-# Writing Style
+# Pine Blog Posts
 
 
 
 ### Table of Contents
 
+- [Process](#process)
 - [Style](#style)
-  - [Tone](#tone)
-  - [Presentation of examples](#presentation-of-examples)
+- [Structure](#structure)
 - [Typographic conventions](#typographic-conventions)
-  - [Capitalization of titles](#tone)
-  - [Quotation marks](#quotation-marks)
-  - [Bold](#bold)
-  - [Italics](#italics)
-  - [Monospace](#monospace)
-  - [Em dash](#em-dash)
 
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
 
+## Process
+
+Blog posts should be well-planned and coordinated with the rollout of the feature:
+
+- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
+- If you cannot think of useful code examples, ask PineCoders in the or Luc.
+
+Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders to have some 
+
+
 
 ## Style
 
+Focus on what's in it for users: what they can do with the new feature, and how.
 
-
-### Tone
-Use "We" — never "I".
-
-We try to mix the assertive tone fitting to documentation with more engaging language such as:
-- Let's look at an example where...
+Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James.
 
 
 
-### Presentation of examples
-When we present code examples, we use the following order:
+## Structure
 
-1. An introductory paragraph ending with a colon (":"). The paragraph's text should provide the information required for readers to understand the big picture of what they will be seeing in the screenshot or code. Leave details to the explanatory segment in point 4.
-2. The screenshot, if there is one.
-3. The code.
-4. The explanatory segment starting with "Note that:", followed by bullet points.
-    If there is only one note, use one paragraph, beginning its first sentence with "Note that".
+Use this stucture for all posts:
 
-See an example [here](https://www.tradingview.com/pine-script-docs/en/v5/concepts/Colors.html#conditional-coloring).
+1. A **catchy title** (ask help from James and Laurie if needed)
+1. A **short introductory paragraph** (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
+1. One or more **sub-sections** explaining how to use the feature, with a script example and a screenshot for each sub-section, if needed.
+1. When possible, **links to script publications** using the new feature should be included.
+3. Our standard [closing paragraphs](#closing-paragraphs).
+4. The "What's new" **notification text** to be used for the blog post.
+
+
+### Code examples
+
+Our code examples should:
+
+- Follow the recommendations from our [Style guide](https://www.tradingview.com/pine-script-docs/en/v5/writing/Style_guide.html).
+- Ideally demonstrate something that can be of practical use to traders, as opposed to code merely illustrating the feature and not useful in a trading context.
+- Be complete, i.e., compilable. If a full demonstration would require an inordinately long script, then we can use only the relevant code lines.
+
+Favor readability over conciseness.
+
+
+### Closing paragraphs
+
+We use the following text to close all blog posts:
+
+> To stay informed of new Pine features, keep an eye on our Pine User Manual's [Release notes](https://www.tradingview.com/pine-script-docs/en/v4/Release_notes.html).
+The [PineCoders](https://www.tradingview.com/u/PineCoders/) account also broadcasts updates from its [Squawk Box](https://t.me/PineCodersSquawkBox) on Telegram, 
+its [Twitter account](https://twitter.com/PineCoders), and from the Pine Script public chat on TradingView.
+>  
+> We hope you find this highly-requested feature useful. Please keep sending us your feedback and suggestions for improvement. We build TradingView for you, and we’re always keen to hear from you.
+
+You can pick up the standard text to paste it in your blog post from [this doc](https://docs.google.com/document/d/1PUtJFrLIkYmUKwIwmxwqX0JipjFVek6Qs20QiXuQK98/edit?usp=sharing).
 
 
 
