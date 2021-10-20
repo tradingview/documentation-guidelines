@@ -80,7 +80,7 @@ See [the section on Pine keywords in the RST Guidelines](https://github.com/trad
 
 
 
-#### Inline code
+### Inline code
 We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 
 - Use the ```confirm``` parameter to...
@@ -92,7 +92,7 @@ Backticks will be converted by the publisher of the blog post into monospace tha
 
 
 
-#### Block code
+### Block code
 We format block code in a monospace font in the post's document.
 
 
@@ -102,7 +102,7 @@ Contrary to our User Manual guidelines, we capitalize titles. You can use a tool
 
 
 
-#### Quotation marks
+### Quotation marks
 We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
 American style which considers a double quotes are the default ones. Single quotes are used if nested in the double ones. For example: 
 * Joe said, "Will you marry me?"
@@ -110,13 +110,13 @@ American style which considers a double quotes are the default ones. Single quot
 
 
 
-#### Bold
+### Bold
 We use bold (marked up as ``**bold text**``) to indicate emphasis, e.g.:
 - This line must be the **last** one in the local block.
 
 
 
-#### Italics
+### Italics
 We use italics (marked up as ``*italic text*``) when:
 1. Introducing concepts, e.g.:
     - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
@@ -129,11 +129,12 @@ We use italics (marked up as ``*italic text*``) when:
 
 
 
-#### Em dash
+### Em dash
 Contrary to standard practices in English, we use a space on each side of Em dashes. 
 The EM dash is not very wide in the Trebuchet MS font used in the HTML rendition of the User Manual;
 the spaces on each side make them more prominent:
 - Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
+
 
 
 ## Examples
