@@ -47,14 +47,21 @@ Our writing style should be the usual TV style: no frills, no bs, engaging, some
 
 ## Structure
 
-Use this stucture for all posts:
+Our blog posts use the following stucture:
 
+1. An lead image in the top-left corner.
 1. A **catchy title** (ask help from James and Laurie if needed)
 1. A **short introductory paragraph** (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
 1. One or more **sub-sections** explaining how to use the feature, with a script example and a screenshot for each sub-section, if needed.
 1. When possible, **links to script publications** using the new feature should be included.
 3. Our standard [closing paragraphs](#closing-paragraphs).
 4. The "What's new" **notification text** to be used for the blog post.
+
+
+### Lead Image
+Veniamin does the lead image, but we should help him out by either providing a screenshot for it, or asking him to design a custom graphic. 
+Make sure he has enough time to do his thing.
+
 
 
 ### Code Examples
@@ -91,7 +98,7 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 - Veniamin will usually add a frame around screenshots, so be sure to ping him when you post them.
   This is particularly important for square screenshots of a dialog box, for example, as they would be too large in the published page without a proper frame. 
   Such screenshots must be artifically framed to achieve a correct x:y ratio.
-
+- Consider using an animated GIF if it demonstrates the feature more effectively.
 
 
 ## Typographic Conventions
