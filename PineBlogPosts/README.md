@@ -120,7 +120,7 @@ We format block code in a monospace font in the post's document.
 
 
 #### Capitalization of titles
-Contrary to our User Manual guidelines, we capitalize titles. You can use a tool like [Title Capitalization & Title Case Converter Tool - Capitalize My Title](https://capitalizemytitle.com/) to apply the proper rules to your titles.
+Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Title Capitalization & Title Case Converter Tool - Capitalize My Title](https://capitalizemytitle.com/) to apply the proper rules to your titles.
 
 
 
