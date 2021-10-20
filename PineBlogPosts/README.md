@@ -98,7 +98,7 @@ We format block code in a monospace font in the post's document.
 
 
 #### Capitalization of titles
-Capitalize only the first word of the title and headings: "Chart information", "Other timeframes and data".
+Contrary to our User Manual guidelines, we capitalize titles. You can use a tool like [Title Capitalization & Title Case Converter Tool - Capitalize My Title](https://capitalizemytitle.com/) to apply the proper rules to your titles.
 
 
 
