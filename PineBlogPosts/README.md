@@ -76,7 +76,7 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 ### Pine keywords
 See [the section on Pine keywords in the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#pine-keywords).
 
-![.](image/Keywords.png "Pine keywords")
+![.](/image/Keywords.png "Pine keywords")
 
 
 
