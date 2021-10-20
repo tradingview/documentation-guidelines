@@ -100,6 +100,7 @@ You can pick up the standard text to paste it in your blog post from [this doc](
   This is particularly important for square screenshots of a dialog box, for example, as they would be too large in the published page without a proper frame. 
   Such screenshots must be artifically framed to achieve a correct x:y ratio.
 - Consider using an animated GIF if it demonstrates the feature more effectively.
+- Veniamin has a pinned post in the "blog" channel explaining how to make optimal screenshots.
 
 This is an example of a dialog box screenshot that has been properly scaled:
 
