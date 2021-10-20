@@ -5,7 +5,7 @@
 ### Table of Contents
 
 - [Process](#process)
-- [Style](#style)
+- [Writing Style](#style)
 - [Structure](#structure)
 - [Typographic conventions](#typographic-conventions)
 
@@ -24,7 +24,7 @@ Because it's always useful for users to see actual scripts using the feature, we
 
 
 
-## Style
+## Writing Style
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
