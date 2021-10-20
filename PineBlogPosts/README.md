@@ -89,7 +89,7 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 - If you show the name of your chart layout in the screenshot, make sure its name is "TV" or "TradingView".
 - **Screenshots should always have an even number of pixels in both dimensions**; they will look sharper when rescaled.
 - Veniamin will usually add a frame around screenshots, so be sure to ping him when you post them.
-  This is particularly important for square screenshots of a dialog box, for example, as they will be too large in the published page. 
+  This is particularly important for square screenshots of a dialog box, for example, as they would be too large in the published page without a proper frame. 
   Such screenshots must be artifically framed to achieve a correct x:y ratio.
 
 
