@@ -1,4 +1,4 @@
-# Pine Blog Posts
+# Writing Guidelines for Pine-Related Blog Posts
 
 
 
