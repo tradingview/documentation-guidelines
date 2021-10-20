@@ -153,7 +153,7 @@ We format block code in a monospace font in the Google doc.
 
 
 
-#### Capitalization of Titles
+### Capitalization of Titles
 Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Capitalize My Title](https://capitalizemytitle.com/) to produce correctly capitalized titles.
 
 
