@@ -1,1 +1,1 @@
-# Guidelines for the Pine Reference Manual
+# Writing Guidelines for the Pine Reference Manual
