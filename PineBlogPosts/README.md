@@ -7,6 +7,7 @@
 - [Process](#process)
 - [Writing Style](#writing-style)
 - [Structure](#structure)
+  - [Lead Image](#lead-image)
   - [Code Examples](#code-examples)
   - [Closing Paragraphs](#closing-paragraphs)
   - [Screenshots](#screenshots)
