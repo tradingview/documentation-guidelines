@@ -207,4 +207,5 @@ Note that the Em dash (—) is not a normal dash (-); it is U+2014.
 
 ## Examples
 
-[Pine Scripts Are Now Interactive](https://www.tradingview.com/blog/en/pine-scripts-are-now-interactive-27147/)
+- [Pine Scripts Are Now Interactive](https://www.tradingview.com/blog/en/pine-scripts-are-now-interactive-27147/)
+- [Say Hello to Pine Script v5](https://www.tradingview.com/blog/en/say-hello-to-pine-script-v5-26900/)
