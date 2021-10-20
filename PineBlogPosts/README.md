@@ -81,9 +81,12 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 ### Pine keywords
 Whenever we use a Pine keyword that has an entry in the Reference Manual, we link it to its entry, which accomplishes two things:
-
 - It helps readers by providing easy access to the Reference Manual.
 - It formats the keyword in blue, which makes it stand out.
+
+Also:
+- Always use ``()`` to suffix function names.
+- When referring to a family of functions, such as ``array.*()``, use [inline code](#inline-code) markup.
 
 Linked keywords will look like this in the published posts:
 
@@ -95,6 +98,7 @@ Linked keywords will look like this in the published posts:
 We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 - Use the ```confirm``` parameter to...
 - Our ```if barstate``` line...
+- The ``request.*()`` functions fetch data from other contexts than the chart's.
 
 Backticks will be converted by the publisher of the blog post into monospace that will look like this in the post:
 
