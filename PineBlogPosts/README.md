@@ -147,7 +147,7 @@ Besides UI component names, we use double quotes when referring to:
 
 ### Bold
 We use bold to indicate emphasis, e.g.:
-: > This line must be the **last** one in the local block.
+: This line must be the **last** one in the local block.
 
 
 
