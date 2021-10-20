@@ -12,6 +12,16 @@
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
 
+## Process
+
+Blog posts should be well-planned and coordinated with the rollout of the feature:
+
+- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
+- If you cannot think of useful code examples, ask PineCoders in the or Luc.
+
+Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders to have some 
+
+
 
 ## Style
 
@@ -28,8 +38,9 @@ Use this stucture for all posts:
 1. A catchy title (ask help from James and Laurie if needed)
 1. An short introductory paragraph (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
 1. One or more sub-sections explaining how to use the feature, with a script example and a screenshot if needed.
-1. Our standard two closing paragraphs.
-1. The "What's new" notification text to be used for the blog post.
+1. When possible, links to script pubications using the new feature should be included.
+3. Our standard two closing paragraphs.
+4. The "What's new" notification text to be used for the blog post.
 
 
 ### Code examples
