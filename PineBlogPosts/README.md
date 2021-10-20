@@ -41,7 +41,7 @@ Because it's always useful for users to see actual scripts using the feature, we
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
-Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James.
+Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
 
 
 
