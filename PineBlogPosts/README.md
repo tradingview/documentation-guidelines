@@ -84,6 +84,14 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 ### Screenshots
+- Structure your screenshots carefully so the focus is on what you want to demonstrate. 
+  Remove all unnecessary content from the screen before taking the screenshot, including any personal informmation.
+- If you show the name of your chart layout in the screenshot, make sure its name if "TV" or "TradingView".
+- Because screenshots are automatically scaled to the width of the page, make sure your image's x:y ratio will scale well. 
+  Do not use square screenshots of a dialog box, for example, as they will be too large in the published page. 
+  Such screenshots must be artifically framed to achieve a correct x:y ratio. As Veniamin for help.
+- Screenshots should always have an even number of pixels in both dimensions; they will look sharper when rescaled.
+- Veniamin will usually add a frame around screenshots, so be sure to ping him when you post them.
 
 
 
@@ -119,7 +127,7 @@ Text wrapped in backticks will be converted to monospace by Alexander:
 
 
 ### Block Code
-We format block code in a monospace font in the post's document.
+We format block code in a monospace font in the Google doc.
 
 
 
@@ -161,6 +169,8 @@ We use italics when introducing concepts, e.g.:
 Contrary to standard practices in English, we use a space on each side of Em dashes. 
 The EM dash is not very wide in the Trebuchet MS font used in blog posts; the spaces on each side make them more prominent:
 > Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
+
+Note that the Em dash (—) is not a normal dash (-); it is U+2014.
 
 
 
