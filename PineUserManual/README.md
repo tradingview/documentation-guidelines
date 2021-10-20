@@ -6,5 +6,5 @@ The GitHub repository for the User Manual is [here](https://github.com/tradingvi
 
 [RST guidelines](RSTGuidelines.md)
 
-This doc provides guidelines on the [terminology](Terminology.md) we use.
+We also have guidelines on the [terminology](Terminology.md) we use in all Pine-related documentation.
 
