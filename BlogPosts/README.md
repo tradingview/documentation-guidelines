@@ -4,6 +4,7 @@
 
 ### Table of Contents
 
+- [Process](#process)
 - [Style](#style)
 - [Structure](#structure)
 - [Typographic conventions](#typographic-conventions)
