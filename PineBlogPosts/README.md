@@ -139,7 +139,7 @@ We wrap UI component names in double quotes:
 ### Double Quotation Marks
 Besides UI component names, we use double quotes when referring to:
 - The title of a publication on TradingView or elsewhere, as in:
-  - The "CAGR" indicator...
+  > The "CAGR" indicator...
 - Form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
