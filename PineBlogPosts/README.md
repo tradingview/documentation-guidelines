@@ -28,7 +28,7 @@
 
 ## Introduction
 
-This page documents how we produce Pine-related blog posts.
+This page documents how we produce Pine-related blog posts. We'll start by looking at the structure of our posts, then see how to create them.
 
 Blog posts are a critical component of our communications with Pine coders. Script users can also often benefit from our Pine-related blog posts, which considerably increases their audience.
 
@@ -36,7 +36,6 @@ When they are done properly, blog posts reflect the professionalism of our teams
 
 Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires adequate time, so it's important that we give them enough of it for them to do their work properly.
 
-We'll start by looking at the structure of our posts, then see how to produce them.
 
 
 
