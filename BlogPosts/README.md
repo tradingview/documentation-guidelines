@@ -40,7 +40,7 @@ Use this stucture for all posts:
 1. A short introductory paragraph (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
 1. One or more sub-sections explaining how to use the feature, with a script example and a screenshot for each sub-section, if needed.
 1. When possible, links to script pubications using the new feature should be included.
-3. Our standard two closing paragraphs.
+3. Our standard [closing paragraphs](#closing-paragraphs).
 4. The "What's new" notification text to be used for the blog post.
 
 
