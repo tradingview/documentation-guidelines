@@ -54,7 +54,7 @@ Use this stucture for all posts:
 4. The "What's new" **notification text** to be used for the blog post.
 
 
-### Code examples
+### Code Examples
 
 Our code examples should:
 
@@ -120,11 +120,20 @@ We format block code in a monospace font in the post's document.
 
 
 #### Capitalization of titles
-Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Title Capitalization & Title Case Converter Tool - Capitalize My Title](https://capitalizemytitle.com/) to apply the proper rules to your titles.
+Contrary to our [Writing Guidelines for the Pine User Manual](https://github.com/tradingview/documentation-guidelines/tree/main/PineUserManual), we capitalize titles in blog posts. You can use a tool like [Capitalize My Title](https://capitalizemytitle.com/) to produce correctly capitalized titles.
 
 
 
-### Quotation marks
+### UI element names
+We wrap UI component names in double quotes:
+- Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
+- Users of your script can change its input values with the "Settings/Inputs" tab.
+- You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.
+- Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.
+
+
+
+### Double Quotation Marks
 We use straight double quotes in RST files, which get converted to opening/closing double curly quotes in the HTML content.
 American style which considers a double quotes are the default ones. Single quotes are used if nested in the double ones. For example: 
 * Joe said, "Will you marry me?"
@@ -143,10 +152,6 @@ We use italics (marked up as ``*italic text*``) when:
 1. Introducing concepts, e.g.:
     - [...] where "const" is considered a *weaker* form than "input", for example, and "series" *stronger* than "simple".
 1. Referring to user interface components:
-    - Use the "Settings" dialog box to modify the script's inputs, visual attributes, or visiblity.
-    - Users of your script can change its input values with the "Settings/Inputs" tab.
-    - You can load scripts on your chart with the "Indicators & Strategies" button situated above the chart.
-    - Scripts define alert events; actual alerts must be created using the chart's "Create Alert" dialog box.
 1. Referring to form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
