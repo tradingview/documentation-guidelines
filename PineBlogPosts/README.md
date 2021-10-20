@@ -93,7 +93,7 @@ Whenever we use a Pine keyword that has an entry in the Reference Manual, we lin
 - It formats the keyword in blue, which makes it stand out.
 
 Also:
-- Always use ``()`` to suffix function names.
+- Always use ``()`` to suffix function names, e.g., [math.ceil()](https://www.tradingview.com/pine-script-reference/v5/#fun_math{dot}ceil).
 - When referring to a family of functions, such as ``array.*()``, use [inline code](#inline-code) markup.
 
 Use the standard linking feature in Google docs to mark up keywords; the links will be preserved in the post. Linked keywords will look like this in the published posts:
