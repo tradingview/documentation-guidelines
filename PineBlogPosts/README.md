@@ -93,7 +93,7 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 ### Screenshots
 - Structure your screenshots carefully so the focus is on what you want to demonstrate. 
-  Remove all unnecessary content from the screen before taking the screenshot, including any personal informmation.
+  Remove all unnecessary content from the screen before taking the screenshot, including any personal information.
 - If you show the name of your chart layout in the screenshot, make sure its name is "TV" or "TradingView".
 - **Screenshots should always have an even number of pixels in both dimensions**; they will look sharper when rescaled.
 - Veniamin will usually add a frame around screenshots, so be sure to ping him when you post them.
