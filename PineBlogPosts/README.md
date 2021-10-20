@@ -86,12 +86,11 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 ### Screenshots
 - Structure your screenshots carefully so the focus is on what you want to demonstrate. 
   Remove all unnecessary content from the screen before taking the screenshot, including any personal informmation.
-- If you show the name of your chart layout in the screenshot, make sure its name if "TV" or "TradingView".
-- Because screenshots are automatically scaled to the width of the page, make sure your image's x:y ratio will scale well. 
-  Do not use square screenshots of a dialog box, for example, as they will be too large in the published page. 
-  Such screenshots must be artifically framed to achieve a correct x:y ratio. As Veniamin for help.
-- Screenshots should always have an even number of pixels in both dimensions; they will look sharper when rescaled.
+- If you show the name of your chart layout in the screenshot, make sure its name is "TV" or "TradingView".
+- **Screenshots should always have an even number of pixels in both dimensions**; they will look sharper when rescaled.
 - Veniamin will usually add a frame around screenshots, so be sure to ping him when you post them.
+  This is particularly important for square screenshots of a dialog box, for example, as they will be too large in the published page. 
+  Such screenshots must be artifically framed to achieve a correct x:y ratio.
 
 
 
