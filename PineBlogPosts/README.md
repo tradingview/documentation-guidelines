@@ -108,7 +108,7 @@ We use backticks to wrap inline code when it is not a keyword that can be linked
 - Our ```if barstate``` line...
 - The ``request.*()`` functions fetch data from other contexts than the chart's.
 
-Backticks will be converted by the publisher of the blog post into monospace that will look like this in the post:
+Text wrapped in backticks will be converted to monospace by Alexander:
 
 ![.](images/Monospace.png "Monospace")
 
