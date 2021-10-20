@@ -4,13 +4,13 @@
 
 ### Table of Contents
 
-- [Process](#process)
-- [Writing Style](#writing-style)
 - [Structure](#structure)
   - [Lead Image](#lead-image)
   - [Code Examples](#code-examples)
   - [Closing Paragraphs](#closing-paragraphs)
   - [Screenshots](#screenshots)
+- [Writing Style](#writing-style)
+- [Process](#process)
 - [Typographic Conventions](#typographic-conventions)
   - [Pine Keywords](#pine-keywords)
   - [Inline Code](#inline-code)
@@ -23,26 +23,19 @@
   - [Em dash](#em-dash)
 - [Examples](#examples)
 
-We use U.S. English style and spelling standards, unless otherwise specified here.
 
 
+## Introduction
 
-## Process
+This page documents how we produce Pine-related blog posts.
 
-Blog posts should be well-planned and coordinated with the rollout of the feature:
+Blog posts are a critical component of our communications with Pine coders. Script users can also often benefit from our Pine-related blog posts, which considerably increases their audience.
 
-- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
-- If you cannot think of useful code examples, ask PineCoders in the or Luc.
+When they are done properly, blog posts reflect the professionalism of our teams. What we say and how we say it are both important.
 
-Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders in the "PineCoders+TV Testing" room to ensure we have some examples.
+Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great posts. Their work requires adequate time, so it's important that we give them enough of it for them to do their work properly.
 
-
-
-## Writing Style
-
-Focus on what's in it for users: what they can do with the new feature, and how.
-
-Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
+We'll start by looking at the structure of our posts, then see how to produce them.
 
 
 
@@ -115,6 +108,27 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 This is an example of a dialog box screenshot that has been properly scaled:
 
 ![.](images/ProperScreenshotScaling.png "Properly scaled screenshot")
+
+
+
+## Writing Style
+
+Focus on what's in it for users: what they can do with the new feature, and how.
+
+Our writing style should be the usual TV style: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
+
+We use U.S. English style and spelling standards, unless otherwise specified.
+
+
+
+## Process
+
+Blog posts should be well-planned and coordinated with the rollout of the feature. Many people must contribute to make great blog posts. Their work requires adequate time, so it's important that we give them enough of it for them to do their work properly.
+
+- Although it's not a requirement, it's useful for users if we can include links to published scripts using the feature. This entails that we coordinate with PineCoders and give them at least a week to come up with worthwhile example scripts.
+- If you cannot think of useful code examples, ask PineCoders in the or Luc.
+
+Because it's always useful for users to see actual scripts using the feature, we should ideally try to coordinate with PineCoders in the "PineCoders+TV Testing" room to ensure we have some examples.
 
 
 
