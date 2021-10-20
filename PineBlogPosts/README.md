@@ -4,6 +4,7 @@
 
 ### Table of Contents
 
+- [Introduction](#introduction)
 - [Structure](#structure)
   - [Lead Image](#lead-image)
   - [Code Examples](#code-examples)
