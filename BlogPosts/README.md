@@ -65,6 +65,8 @@ its [Twitter account](https://twitter.com/PineCoders), and from the Pine Script 
 >  
 > We hope you find this highly-requested feature useful. Please keep sending us your feedback and suggestions for improvement. We build TradingView for you, and we’re always keen to hear from you.
 
+You can pick up the standard text to paste it in your blog post from [this doc](https://docs.google.com/document/d/1PUtJFrLIkYmUKwIwmxwqX0JipjFVek6Qs20QiXuQK98/edit?usp=sharing).
+
 
 
 ## Typographic conventions
