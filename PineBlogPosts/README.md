@@ -73,8 +73,13 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 
-#### Pine keywords
-See [the section on Pine keywords in the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#pine-keywords).
+### Pine keywords
+Whenever we use a Pine keyword that has an entry in the Refrence Manual, we link it to its entry, which accomplishes two things:
+
+- It helps readers by provinding easy access to the Reference Manual.
+- It formats the keyword in blue, which makes it stand out.
+
+Linked keywords will look like this in the published posts:
 
 ![.](images/Keywords.png "Pine keywords")
 
