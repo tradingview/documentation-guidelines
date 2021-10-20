@@ -8,6 +8,12 @@
 - [Writing Style](#writing-style)
 - [Structure](#structure)
 - [Typographic conventions](#typographic-conventions)
+  - [Pine keywords](#pine-keywords)
+  - [Inline code](#inline-code)
+  - [Block code](#block-code)
+  - [Capitalization of titles](#capitalization-of-titles)
+  - [Structure](#structure)
+  - [Structure](#structure)
 
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
@@ -87,7 +93,6 @@ Linked keywords will look like this in the published posts:
 
 ### Inline code
 We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
-
 - Use the ```confirm``` parameter to...
 - Our ```if barstate``` line...
 
