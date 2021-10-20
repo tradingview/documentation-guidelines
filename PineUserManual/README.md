@@ -4,6 +4,7 @@ The GitHub repository for the User Manual is [here](https://github.com/tradingvi
 
 [Writing Style](WritingStyle.md)
 
-[Terminology](Terminology.md)
-
 [RST guidelines](RSTGuidelines.md)
+
+This doc provides guidelines on the [terminology](Terminology.md) we use.
+
