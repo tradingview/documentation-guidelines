@@ -111,11 +111,18 @@ We use italics (marked up as ``*italic text*``) when:
 1. Referring to form-type pairs, or forms, or types (see the ["Forms and types" section of the RST Guidelines](https://github.com/tradingview/documentation-guidelines/blob/main/PineUserManual/RSTGuidelines.md#forms-and-types)).
 
 
-### Monospace
-We use monospace (marked up as &#96;&#96;monospace text&#96;&#96;) for inline Pine code segments **that are not a Pine built-in variable or function name** e.g.:
-- This line must be the **last** one in the local block.
+### Inline code
+We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
 
-![.](image/Keywords.png "Pine keywords")
+- Use the ```confirm``` parameter to...
+- Our ```if barstate``` line...
+
+Backticks will be converted by the publisher of the blog post into monospace that will look like this in the post:
+
+![.](images/Monospace.png "Monospace")
+
+### Block code
+We format block code in a monospace font in the post's document.
 
 
 ### Em dash
