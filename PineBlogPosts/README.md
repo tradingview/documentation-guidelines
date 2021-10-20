@@ -74,9 +74,9 @@ You can pick up the standard text to paste it in your blog post from [this doc](
 
 
 ### Pine keywords
-Whenever we use a Pine keyword that has an entry in the Refrence Manual, we link it to its entry, which accomplishes two things:
+Whenever we use a Pine keyword that has an entry in the Reference Manual, we link it to its entry, which accomplishes two things:
 
-- It helps readers by provinding easy access to the Reference Manual.
+- It helps readers by providing easy access to the Reference Manual.
 - It formats the keyword in blue, which makes it stand out.
 
 Linked keywords will look like this in the published posts:
