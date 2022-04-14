@@ -5,8 +5,8 @@
 ### Table of Contents
 
 - ["argument" vs "parameter"](#argument-vs-parameter)
-- ["IDs"](#ids)
-- ["Pine Script™"](#pine-script™)
+- ["ID"](#id)
+- ["Pine Script™"](#pine-script)
 - ["realtime" vs "real time"](#realtime-vs-real-time)
 - ["timeframe"](#timeframe)
 
