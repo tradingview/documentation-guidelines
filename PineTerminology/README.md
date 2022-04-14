@@ -6,6 +6,7 @@
 
 - ["argument" vs "parameter"](#argument-vs-parameter)
 - ["IDs"](#ids)
+- ["Pine Script™"](#pine-script™)
 - ["realtime" vs "real time"](#realtime-vs-real-time)
 - ["timeframe"](#timeframe)
 
@@ -21,6 +22,9 @@ When referring to values passed to a function when calling it, we use "argument"
 When referring to pointers to plots, hlines, drawings or arrays, we use "ID" for singular and "IDs" for plural:
 - *Both IDs used to identify the lines to be filled in ``fill()`` must be either plot IDs or hline IDs.*
 - *Drawing IDs are time series; array IDs are not.*
+
+### Pine Script™
+We use "Pine Script™" to name our language whenever we can. Because this form is heavier than the simple "Pine" we often used before, this means we cannot use it as often in a paragraph. Try to arrange your phrasing so that you do not overuse "Pine Script™" in too many close instances.
 
 ### "realtime" vs "real time"
 We use "realtime" when it is an adjective and "real time" when "time" is used as a noun:
