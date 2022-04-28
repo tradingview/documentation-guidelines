@@ -80,7 +80,7 @@ This is a code example that could have been better. Something more useful to tra
 
 We use the following text to close all blog posts:
 
-> To stay informed of new Pine features, keep an eye on our Pine User Manual's [Release notes](https://www.tradingview.com/pine-script-docs/en/v5/Release_notes.html).
+> To stay informed of new Pine features, keep an eye on our Pine Script™ User Manual's [Release notes](https://www.tradingview.com/pine-script-docs/en/v5/Release_notes.html).
   The [PineCoders](https://www.tradingview.com/u/PineCoders/) account also broadcasts updates from its [Squawk Box](https://t.me/PineCodersSquawkBox) on Telegram, 
   its [Twitter account](https://twitter.com/PineCoders), and from the Pine Script public chat on TradingView.
 >  
