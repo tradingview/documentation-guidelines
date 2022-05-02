@@ -12,7 +12,7 @@
 
 [Writing Guidelines for Pine-Related Blog Posts](https://github.com/tradingview/documentation-guidelines/tree/main/PineBlogPosts)
 
-[Pine Script™ logos](https://github.com/tradingview/documentation-guidelines/tree/main/images)
+[Pine Script™ logos](https://github.com/tradingview/documentation-guidelines/tree/main/images/pine)
 
 #### References
 [Microsoft Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
