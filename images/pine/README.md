@@ -1,3 +1,5 @@
+#Instructions
+
 The `.svg` vector file should be used whenever we can.
 
 If you use the `.png` bitmap files, try to use them unscaled. 
