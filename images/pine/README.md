@@ -1,6 +1,7 @@
 # Instructions
 
 The `.svg` vector file should be used whenever we can.
+
 ![logo](PineScript_logo.svg "Pine Script™")
 
 If you use the `.png` bitmap files, try to use them unscaled. 
