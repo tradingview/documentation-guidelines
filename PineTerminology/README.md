@@ -12,7 +12,7 @@
 - ["realtime" vs "real time"](#realtime-vs-real-time)
 - [script](#script)
 - [strategy](#strategy)
-- ["timeframe"](#timeframe)
+- [timeframe](#timeframe)
 
 
 
@@ -37,10 +37,10 @@ We only use *library* to refer to Pine scripts containing the [``library()``](ht
 We use "Pine Script™" to name our language whenever we can. Because this form is heavier than the simple "Pine" we often used before, this means we cannot use it as often in a paragraph. Try to arrange your phrasing so that you do not overuse "Pine Script™" in too many close instances.
 
 ### "realtime" vs "real time"
-We use "realtime" when it is an adjective and "real time" when "time" is used as a noun:
-- *A realtime bar*
-- *Realtime calculations*
-- *A script running in real time*
+We use *realtime* when it is an adjective and *real time* when *time* is used as a noun:
+- *A **realtime** bar*
+- ***Realtime** calculations*
+- *A script running in **real time***
 
 ### script
 We use *script* to designate Pine code that can be an [indicator](#indicator), a [strategy](#strategy) or a [library](#library).
@@ -48,5 +48,5 @@ We use *script* to designate Pine code that can be an [indicator](#indicator), a
 ### strategy
 We only use *strategy* to refer to Pine scripts containing the [``strategy()``](https://www.tradingview.com/pine-script-reference/v5/#fun_strategy) declaration statement. When referring to any Pine script, we use the generic term [*script*](#script).
 
-### "timeframe"
-We use "timeframe" to name what has historically be called "interval", "resolution" or "time frame".
+### timeframe
+We use *timeframe* to name what has historically be called *interval*, *resolution* or *time frame*.
