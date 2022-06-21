@@ -20,11 +20,11 @@ We use *parameter* to designate the named placeholders defining the values that 
 
 ### ID
 When referring to pointers to plots, hlines, drawings or arrays, we use "ID" for singular and "IDs" for plural:
-- *Both IDs used to identify the lines to be filled in ``fill()`` must be either plot IDs or hline IDs.*
-- *Drawing IDs are time series; array IDs are not.*
+- *Both **IDs** used to identify the lines to be filled in ``fill()`` must be either plot **IDs** or hline IDs.*
+- *Drawing **IDs** are time series.*
 
 ### indicator
-We only use *indicator* to refer to Pine scripts containing the [``indicator()``](https://www.tradingview.com/pine-script-reference/v5/#fun_indicator) declaration statement. When referring to any Pine script, we use [*script*](#timeframe).
+We only use *indicator* to refer to Pine scripts containing the [``indicator()``](https://www.tradingview.com/pine-script-reference/v5/#fun_indicator) declaration statement. When referring to any Pine script, we use the generic term [*script*](#timeframe).
 
 ### Pine Script™
 We use "Pine Script™" to name our language whenever we can. Because this form is heavier than the simple "Pine" we often used before, this means we cannot use it as often in a paragraph. Try to arrange your phrasing so that you do not overuse "Pine Script™" in too many close instances.
