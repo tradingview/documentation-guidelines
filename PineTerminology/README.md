@@ -16,7 +16,7 @@
 We use "parameter" to designate the name of the values a function accepts when referring to the function's signature, or to the function in general. 
 When referring to values passed to a function when calling it, we use "argument":
 - *Defining the type of function **parameters** in library function declarations is mandatory.*
-- *A "simple int" argument is required for the length parameter in ``sma()``.*
+- *A "simple int" **argument** is required for the length parameter in ``sma()``.*
 
 ### ID
 When referring to pointers to plots, hlines, drawings or arrays, we use "ID" for singular and "IDs" for plural:
