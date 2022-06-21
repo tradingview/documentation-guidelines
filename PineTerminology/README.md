@@ -6,8 +6,11 @@
 
 - ["argument" vs "parameter"](#argument-vs-parameter)
 - [ID](#id)
+- [indicator](#indicator)
+- [library](#library)
 - [Pine Script™](#pine-script)
 - ["realtime" vs "real time"](#realtime-vs-real-time)
+- [strategy](#strategy)
 - ["timeframe"](#timeframe)
 
 
