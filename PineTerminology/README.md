@@ -10,6 +10,7 @@
 - [library](#library)
 - [Pine Script™](#pine-script)
 - ["realtime" vs "real time"](#realtime-vs-real-time)
+- [script](#script)
 - [strategy](#strategy)
 - ["timeframe"](#timeframe)
 
