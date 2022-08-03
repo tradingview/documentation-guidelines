@@ -99,3 +99,5 @@ the spaces on each side make them more prominent:
 
 
 
+### Thousands separator
+We use a comma for the thousands separator with values starting at 10,000. We write "1000" but "10,000".
