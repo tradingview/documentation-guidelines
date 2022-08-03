@@ -14,7 +14,7 @@
   - [Italics](#italics)
   - [Monospace](#monospace)
   - [Em dash](#em-dash)
-
+  - [Thousands separator](#thousands-separator)
 
 We use U.S. English style and spelling standards, unless otherwise specified here.
 
