@@ -19,7 +19,7 @@
 ### "argument" vs "parameter"
 We use *parameter* to designate the named placeholders defining the values that can be passed to a function when it is called in code. We use *argument* to name those values. A function signature thus has *parameters*, whereas a function call has *arguments*: 
 - *Defining the type of function **parameters** in library function declarations is mandatory.*
-- *A "simple int" **argument** is required for the length parameter in [``ta.sma()``](https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma).*
+- *A "simple int" **argument** is required for the length **parameter** in [``ta.sma()``](https://www.tradingview.com/pine-script-reference/v5/#fun_ta{dot}sma).*
 - *The default value of the `shorttitle` **parameter** is the **argument** used for the `title` **parameter.***
 
 ### ID
