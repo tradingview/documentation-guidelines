@@ -13,6 +13,7 @@
 - [script](#script)
 - [strategy](#strategy)
 - [timeframe](#timeframe)
+- [time zone](#time-zone)
 
 
 
@@ -53,3 +54,6 @@ We only use *strategy* to refer to Pine scripts containing the [``strategy()``](
 
 ### timeframe
 We use *timeframe* to name what has historically be called *interval*, *resolution* or *time frame*.
+
+### time zone
+We use *time zone* — not *timezone*.
