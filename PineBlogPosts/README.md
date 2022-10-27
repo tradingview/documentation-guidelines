@@ -111,7 +111,7 @@ This is an example of a dialog box screenshot that has been properly scaled:
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
-Our writing style should emulate the casual style created by James that has become our trademark: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from James or Laurie.
+Our writing style should emulate the casual style created by James that has become our trademark: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from Tagatha.
 
 Unless otherwise specified, we use U.S. English style and spelling standards.
 
@@ -125,7 +125,7 @@ Unless otherwise specified, we use U.S. English style and spelling standards.
 - Warn Alexander ahead of time and plan an approximate publishing date with him. 
   Some periods are busier than others and there is a limit to the frequency of blog post publications.
 - Write a first draft of your post and share it with Luc so he can review it.
-- Ask Laurie to review the post's text. She keeps a spreadsheet to track requests: 
+- Ask Tagatha to review the post's text. She keeps a spreadsheet to track requests: 
   [TradingView: Edits tracker](https://docs.google.com/spreadsheets/d/1sNC7AuV1T3fafiXeM-YLASXi-j2uXOvGSslMPRbOpc8/edit#gid=0). 
   Make an entry in it for your post.
 - Ask Veniamin to do the lead image and the screenshots that will appear in the post.
