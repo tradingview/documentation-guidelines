@@ -84,8 +84,7 @@ We use the following text to close all blog posts:
   The [PineCoders](https://www.tradingview.com/u/PineCoders/) account also broadcasts updates from its [Squawk Box](https://t.me/PineCodersSquawkBox) on Telegram, 
   its [Twitter account](https://twitter.com/PineCoders), and from the "Pine Script™ Q&A" public chat on TradingView.
 >  
-> We hope you find this highly-requested feature useful. Please keep sending us your feedback and suggestions for improvement.  
-  We build TradingView for you, and we’re always keen to hear from you.
+> We hope you find this highly-requested feature as useful as we think it’ll be, and please do keep sending us your feedback and suggestions so we can make the platform the best it can be. We build TradingView for you, and we’re always keen to hear your thoughts.
 
 You can pick up the standard text to paste it in your blog post from [this doc](https://docs.google.com/document/d/1PUtJFrLIkYmUKwIwmxwqX0JipjFVek6Qs20QiXuQK98/edit?usp=sharing).
 
