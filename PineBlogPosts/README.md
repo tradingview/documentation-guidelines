@@ -214,8 +214,8 @@ We use italics when introducing concepts, e.g.:
 
 ### Em dash
 
-Contrary to standard practices in English, we use a space on each side of Em dashes. 
-The EM dash is not very wide in the Trebuchet MS font used in blog posts; the spaces on each side make them more prominent:
+Contrary to standard practices in English, we use a space on each side of em dashes. 
+The em dash is not very wide in the Trebuchet MS font used in blog posts; the spaces on each side make them more prominent:
 > Providing a selection of color presets in your inputs — rather than a single color that can be changed — can help color-challenged users. 
 
 Note that the Em dash (—) is not a normal dash (-); it is U+2014.
