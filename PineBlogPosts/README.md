@@ -41,7 +41,7 @@ Blog posts should be well-planned and coordinated with the rollout of the featur
 Our blog posts use the following stucture:
 
 1. A **lead image** in the top-left corner.
-1. A **catchy title** (ask help from James and Laurie if needed).
+1. A **catchy title** (ask help from Tagatha if needed).
 1. A **short introductory paragraph** (two or three sentences) summarizing the new feature AND mentioning its most important impact from a user's point of view.
 1. One or more **sub-sections** explaining how to use the feature, with a script example and a screenshot for each sub-section, if needed.
 1. When possible, **links to script publications** using the new feature should be included.
@@ -111,7 +111,7 @@ This is an example of a dialog box screenshot that has been properly scaled:
 
 Focus on what's in it for users: what they can do with the new feature, and how.
 
-Our writing style should emulate the casual style created by James that has become our trademark: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from Tagatha.
+Our writing style should emulate the casual style that has become our trademark: no frills, no bs, engaging, sometimes humorous, and to the point. If you are unsure, ask for help from Tagatha.
 
 Unless otherwise specified, we use U.S. English style and spelling standards.
 
