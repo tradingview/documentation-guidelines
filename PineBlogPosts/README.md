@@ -156,7 +156,7 @@ Use the standard linking feature in Google docs to mark up keywords; the links w
 
 ### Inline Code
 
-We use backticks to wrap inline code when it is not a keyword that can be linked to Reference Manual entry, e.g.:
+We use backticks to wrap inline code when it is not a keyword that can be linked to a Reference Manual entry, e.g.:
 > Use the ```confirm``` parameter to...  
   Our ```if barstate``` line...  
   The ``request.*()`` functions fetch data from other contexts than the chart's.
