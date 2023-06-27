@@ -80,12 +80,14 @@ This is a code example that could have been better. Something more useful to tra
 
 We use the following text to close all blog posts:
 
-> To stay up to date on new Pine Script™ features, keep an eye on the 
-  [Release notes](https://www.tradingview.com/pine-script-docs/en/v5/Release_notes.html) in the User Manual.
+> To stay up to date on new Pine Script<sup>®</sup> features, keep an eye on the User Manual's
+  [Release notes](https://www.tradingview.com/pine-script-docs/en/v5/Release_notes.html).
   The [PineCoders](https://www.tradingview.com/u/PineCoders/) account also broadcasts updates from its [Squawk Box](https://t.me/PineCodersSquawkBox) on Telegram, 
   its [Twitter account](https://twitter.com/PineCoders), and from the "Pine Script™ Q&A" public chat on TradingView.
 >  
-> We hope you find this highly-requested feature as useful as we think it’ll be, and please do keep sending us your feedback and suggestions so we can make the platform the best it can be. We build TradingView for you, and we’re always keen to hear your thoughts.
+> We hope you find this highly-requested feature as useful as we think it’ll be, and please do keep sending us your
+  [feedback and suggestions](https://www.reddit.com/r/TradingView/) so we can make the platform the best it can be.
+  We build TradingView for you, and we’re always keen to hear your thoughts.
 
 You can pick up the standard text to paste it in your blog post from [this doc](https://docs.google.com/document/d/1PUtJFrLIkYmUKwIwmxwqX0JipjFVek6Qs20QiXuQK98/edit?usp=sharing).
 
