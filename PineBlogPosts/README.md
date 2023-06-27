@@ -1,4 +1,4 @@
-# Writing Guidelines for Pine-Related Blog Posts
+# Writing Guidelines for Blog Posts Related to Pine Script<sup>®</sup>
 
 
 
