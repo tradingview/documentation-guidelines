@@ -88,6 +88,8 @@ We use the following text to close all blog posts:
 > We hope you find this highly-requested feature as useful as we think it’ll be, and please do keep sending us your
   [feedback and suggestions](https://www.reddit.com/r/TradingView/) so we can make the platform the best it can be.
   We build TradingView for you, and we’re always keen to hear your thoughts.
+>
+> — Team TradingView
 
 You can pick up the standard text to paste it in your blog post from [this doc](https://docs.google.com/document/d/1PUtJFrLIkYmUKwIwmxwqX0JipjFVek6Qs20QiXuQK98/edit?usp=sharing).
 
